@@ -355,9 +355,3516 @@
                 <reading r_type="ja_on">ア</reading>
                 <reading r_type="ja_on">アク</reading>
                 <reading r_type="ja_kun">おし</reading>
-                <meaning>mute</meaning>
+                <meaning m_lang="fr">pitoyable</meaning>
+                <meaning >mute</meaning>
                 <meaning>dumb</meaning>
             </rmgroup>
         </reading_meaning>
     </character>
+    <character>
+<literal>哀</literal>
+<codepoint>
+<cp_value cp_type="ucs">54c0</cp_value>
+<cp_value cp_type="jis208">16-5</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">30</rad_value>
+<rad_value rad_type="nelson_c">8</rad_value>
+</radical>
+<misc>
+<grade>8</grade>
+<stroke_count>9</stroke_count>
+<freq>1715</freq>
+<jlpt>1</jlpt>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">304</dic_ref>
+<dic_ref dr_type="nelson_n">791</dic_ref>
+<dic_ref dr_type="halpern_njecd">2068</dic_ref>
+<dic_ref dr_type="halpern_kkld">1310</dic_ref>
+<dic_ref dr_type="heisig">401</dic_ref>
+<dic_ref dr_type="gakken">1670</dic_ref>
+<dic_ref dr_type="oneill_kk">1249</dic_ref>
+<dic_ref dr_type="moro" m_vol="2" m_page="0997">3580</dic_ref>
+<dic_ref dr_type="henshall">998</dic_ref>
+<dic_ref dr_type="sh_kk">1675</dic_ref>
+<dic_ref dr_type="jf_cards">1131</dic_ref>
+<dic_ref dr_type="tutt_cards">1239</dic_ref>
+<dic_ref dr_type="kanji_in_context">1804</dic_ref>
+<dic_ref dr_type="kodansha_compact">327</dic_ref>
+<dic_ref dr_type="maniette">408</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">2-2-7</q_code>
+<q_code qc_type="sh_desc">2j7.4</q_code>
+<q_code qc_type="four_corner">0073.2</q_code>
+<q_code qc_type="deroo">465</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">ai1</reading>
+<reading r_type="korean_r">ae</reading>
+<reading r_type="korean_h">애</reading>
+<reading r_type="ja_on">アイ</reading>
+<reading r_type="ja_kun">あわ.れ</reading>
+<reading r_type="ja_kun">あわ.れむ</reading>
+<reading r_type="ja_kun">かな.しい</reading>
+<meaning>pathetic</meaning>
+<meaning>grief</meaning>
+<meaning>sorrow</meaning>
+<meaning>pathos</meaning>
+<meaning>pity</meaning>
+<meaning>sympathize</meaning>
+<meaning m_lang="fr">pitoyable</meaning>
+<meaning m_lang="fr">peine</meaning>
+<meaning m_lang="fr">chagrin</meaning>
+<meaning m_lang="fr">pitié</meaning>
+<meaning m_lang="fr">pathétique</meaning>
+<meaning m_lang="fr">compatir</meaning>
+<meaning m_lang="es">compasión</meaning>
+<meaning m_lang="es">lástima</meaning>
+<meaning m_lang="es">miseria</meaning>
+<meaning m_lang="es">piedad</meaning>
+<meaning m_lang="es">pena</meaning>
+<meaning m_lang="es">compadecerse de</meaning>
+<meaning m_lang="pt">patético</meaning>
+<meaning m_lang="pt">pesar</meaning>
+<meaning m_lang="pt">pena</meaning>
+<meaning m_lang="pt">emoção</meaning>
+<meaning m_lang="pt">compaixão</meaning>
+<meaning m_lang="pt">solidariesar</meaning>
+</rmgroup>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 愛 -->
+<character>
+<literal>愛</literal>
+<codepoint>
+<cp_value cp_type="ucs">611b</cp_value>
+<cp_value cp_type="jis208">16-6</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">61</rad_value>
+<rad_value rad_type="nelson_c">87</rad_value>
+</radical>
+<misc>
+<grade>4</grade>
+<stroke_count>13</stroke_count>
+<freq>640</freq>
+<jlpt>2</jlpt>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">2829</dic_ref>
+<dic_ref dr_type="nelson_n">1927</dic_ref>
+<dic_ref dr_type="halpern_njecd">2492</dic_ref>
+<dic_ref dr_type="halpern_kkld">1606</dic_ref>
+<dic_ref dr_type="heisig">737</dic_ref>
+<dic_ref dr_type="gakken">436</dic_ref>
+<dic_ref dr_type="oneill_names">2018</dic_ref>
+<dic_ref dr_type="oneill_kk">456</dic_ref>
+<dic_ref dr_type="moro" m_vol="4" m_page="1123">10947</dic_ref>
+<dic_ref dr_type="henshall">417</dic_ref>
+<dic_ref dr_type="sh_kk">259</dic_ref>
+<dic_ref dr_type="sakade">339</dic_ref>
+<dic_ref dr_type="jf_cards">545</dic_ref>
+<dic_ref dr_type="henshall3">441</dic_ref>
+<dic_ref dr_type="tutt_cards">602</dic_ref>
+<dic_ref dr_type="crowley">268</dic_ref>
+<dic_ref dr_type="kanji_in_context">1079</dic_ref>
+<dic_ref dr_type="kodansha_compact">790</dic_ref>
+<dic_ref dr_type="maniette">745</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">2-4-9</q_code>
+<q_code qc_type="sh_desc">4i10.1</q_code>
+<q_code qc_type="four_corner">2024.7</q_code>
+<q_code qc_type="deroo">2067</q_code>
+<q_code qc_type="skip" skip_misclass="posn">2-1-12</q_code>
+<q_code qc_type="skip" skip_misclass="posn">2-6-7</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">ai4</reading>
+<reading r_type="korean_r">ae</reading>
+<reading r_type="korean_h">애</reading>
+<reading r_type="ja_on">アイ</reading>
+<reading r_type="ja_kun">いと.しい</reading>
+<reading r_type="ja_kun">かな.しい</reading>
+<reading r_type="ja_kun">め.でる</reading>
+<reading r_type="ja_kun">お.しむ</reading>
+<reading r_type="ja_kun">まな</reading>
+<meaning>love</meaning>
+<meaning>affection</meaning>
+<meaning>favourite</meaning>
+<meaning m_lang="fr">amour</meaning>
+<meaning m_lang="fr">affection</meaning>
+<meaning m_lang="fr">favori</meaning>
+<meaning m_lang="es">amor</meaning>
+<meaning m_lang="es">afecto</meaning>
+<meaning m_lang="es">favorito</meaning>
+<meaning m_lang="pt">amor</meaning>
+<meaning m_lang="pt">afeição</meaning>
+<meaning m_lang="pt">favorito</meaning>
+</rmgroup>
+<nanori>あ</nanori>
+<nanori>あし</nanori>
+<nanori>え</nanori>
+<nanori>かな</nanori>
+<nanori>なる</nanori>
+<nanori>めぐ</nanori>
+<nanori>めぐみ</nanori>
+<nanori>よし</nanori>
+<nanori>ちか</nanori>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 挨 -->
+<character>
+<literal>挨</literal>
+<codepoint>
+<cp_value cp_type="ucs">6328</cp_value>
+<cp_value cp_type="jis208">16-7</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">64</rad_value>
+</radical>
+<misc>
+<grade>8</grade>
+<stroke_count>10</stroke_count>
+<freq>2258</freq>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">1910</dic_ref>
+<dic_ref dr_type="nelson_n">2160</dic_ref>
+<dic_ref dr_type="heisig">2248</dic_ref>
+<dic_ref dr_type="moro" m_vol="5" m_page="0229">12082</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">1-3-7</q_code>
+<q_code qc_type="sh_desc">3c7.12</q_code>
+<q_code qc_type="four_corner">5303.4</q_code>
+<q_code qc_type="deroo">1363</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">ai1</reading>
+<reading r_type="pinyin">ai2</reading>
+<reading r_type="korean_r">ae</reading>
+<reading r_type="korean_h">애</reading>
+<reading r_type="ja_on">アイ</reading>
+<reading r_type="ja_kun">ひら.く</reading>
+<meaning>push open</meaning>
+<meaning m_lang="es">empujar</meaning>
+<meaning m_lang="es">acercarse</meaning>
+</rmgroup>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 姶 -->
+<character>
+<literal>姶</literal>
+<codepoint>
+<cp_value cp_type="ucs">59f6</cp_value>
+<cp_value cp_type="jis208">16-8</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">38</rad_value>
+</radical>
+<misc>
+<stroke_count>9</stroke_count>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_n">1208</dic_ref>
+<dic_ref dr_type="oneill_names">1091</dic_ref>
+<dic_ref dr_type="moro" m_vol="3" m_page="0696">6242</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">1-3-6</q_code>
+<q_code qc_type="sh_desc">3e6.7</q_code>
+<q_code qc_type="four_corner">4846.1</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">yan3</reading>
+<reading r_type="korean_r">ab</reading>
+<reading r_type="korean_h">압</reading>
+<reading r_type="ja_on">オウ</reading>
+<reading r_type="ja_on">アイ</reading>
+<reading r_type="ja_kun">あい</reading>
+<meaning>good-looking</meaning>
+<meaning>quiet</meaning>
+</rmgroup>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 逢 -->
+<character>
+<literal>逢</literal>
+<codepoint>
+<cp_value cp_type="ucs">9022</cp_value>
+<cp_value cp_type="jis208">16-9</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">162</rad_value>
+</radical>
+<misc>
+<grade>9</grade>
+<stroke_count>10</stroke_count>
+<stroke_count>9</stroke_count>
+<freq>2116</freq>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">4694</dic_ref>
+<dic_ref dr_type="nelson_n">6054</dic_ref>
+<dic_ref dr_type="heisig">2417</dic_ref>
+<dic_ref dr_type="oneill_names">1516</dic_ref>
+<dic_ref dr_type="moro" m_vol="11" m_page="0075">38901X</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">3-3-7</q_code>
+<q_code qc_type="sh_desc">2q7.15</q_code>
+<q_code qc_type="four_corner">3730.4</q_code>
+<q_code qc_type="deroo">2555</q_code>
+<q_code qc_type="skip" skip_misclass="stroke_diff">3-4-7</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">feng2</reading>
+<reading r_type="korean_r">bong</reading>
+<reading r_type="korean_h">봉</reading>
+<reading r_type="ja_on">ホウ</reading>
+<reading r_type="ja_kun">あ.う</reading>
+<reading r_type="ja_kun">むか.える</reading>
+<meaning>meeting</meaning>
+<meaning>tryst</meaning>
+<meaning>date</meaning>
+<meaning>rendezvous</meaning>
+<meaning m_lang="es">encuentro</meaning>
+<meaning m_lang="es">cita</meaning>
+<meaning m_lang="es">encuentro casual</meaning>
+<meaning m_lang="es">encontrarse</meaning>
+<meaning m_lang="es">reunirse</meaning>
+<meaning m_lang="es">citarse</meaning>
+<meaning m_lang="es">verse por casualidad</meaning>
+</rmgroup>
+<nanori>あい</nanori>
+<nanori>おう</nanori>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 葵 -->
+<character>
+<literal>葵</literal>
+<codepoint>
+<cp_value cp_type="ucs">8475</cp_value>
+<cp_value cp_type="jis208">16-10</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">140</rad_value>
+</radical>
+<misc>
+<grade>9</grade>
+<stroke_count>12</stroke_count>
+<freq>2122</freq>
+<jlpt>1</jlpt>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">3990</dic_ref>
+<dic_ref dr_type="nelson_n">5120</dic_ref>
+<dic_ref dr_type="halpern_njecd">2317</dic_ref>
+<dic_ref dr_type="halpern_kkld">1493</dic_ref>
+<dic_ref dr_type="heisig">2391</dic_ref>
+<dic_ref dr_type="oneill_names">1723</dic_ref>
+<dic_ref dr_type="moro" m_vol="9" m_page="0806">31458X</dic_ref>
+<dic_ref dr_type="sh_kk">2222</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">2-3-9</q_code>
+<q_code qc_type="sh_desc">3k9.17</q_code>
+<q_code qc_type="four_corner">4443.0</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">kui2</reading>
+<reading r_type="korean_r">gyu</reading>
+<reading r_type="korean_h">규</reading>
+<reading r_type="ja_on">キ</reading>
+<reading r_type="ja_kun">あおい</reading>
+<meaning>hollyhock</meaning>
+<meaning m_lang="es">malva real</meaning>
+<meaning m_lang="es">malva loca</meaning>
+</rmgroup>
+<nanori>まもる</nanori>
+<nanori>け</nanori>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 茜 -->
+<character>
+<literal>茜</literal>
+<codepoint>
+<cp_value cp_type="ucs">831c</cp_value>
+<cp_value cp_type="jis208">16-11</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">140</rad_value>
+</radical>
+<misc>
+<grade>9</grade>
+<stroke_count>9</stroke_count>
+<freq>2422</freq>
+<jlpt>1</jlpt>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">3932</dic_ref>
+<dic_ref dr_type="nelson_n">5019</dic_ref>
+<dic_ref dr_type="halpern_njecd">2261</dic_ref>
+<dic_ref dr_type="halpern_kkld">1448</dic_ref>
+<dic_ref dr_type="heisig">2407</dic_ref>
+<dic_ref dr_type="oneill_names">928</dic_ref>
+<dic_ref dr_type="moro" m_vol="9" m_page="0619">30871X</dic_ref>
+<dic_ref dr_type="sh_kk">2216</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">2-3-6</q_code>
+<q_code qc_type="sh_desc">3k6.3</q_code>
+<q_code qc_type="four_corner">4460.1</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">qian4</reading>
+<reading r_type="pinyin">xi1</reading>
+<reading r_type="korean_r">cheon</reading>
+<reading r_type="korean_h">천</reading>
+<reading r_type="ja_on">セン</reading>
+<reading r_type="ja_kun">あかね</reading>
+<meaning>madder</meaning>
+<meaning>red dye</meaning>
+<meaning>Turkey red</meaning>
+<meaning m_lang="es">tinte rojo</meaning>
+<meaning m_lang="es">rojo brillante</meaning>
+</rmgroup>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 穐 -->
+<character>
+<literal>穐</literal>
+<codepoint>
+<cp_value cp_type="ucs">7a50</cp_value>
+<cp_value cp_type="jis208">16-12</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">115</rad_value>
+</radical>
+<misc>
+<stroke_count>16</stroke_count>
+<variant var_type="jis208">29-09</variant>
+<variant var_type="jis208">67-52</variant>
+<variant var_type="nelson_c">3273</variant>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_n">4170</dic_ref>
+<dic_ref dr_type="moro" m_vol="8" m_page="0630">25281</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">1-5-11</q_code>
+<q_code qc_type="sh_desc">5d4.1</q_code>
+<q_code qc_type="four_corner">2791.6</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">qiu1</reading>
+<reading r_type="korean_r">chu</reading>
+<reading r_type="korean_h">추</reading>
+<reading r_type="ja_on">シュウ</reading>
+<reading r_type="ja_kun">あき</reading>
+<reading r_type="ja_kun">とき</reading>
+<meaning>autumn</meaning>
+</rmgroup>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 悪 -->
+<character>
+<literal>悪</literal>
+<codepoint>
+<cp_value cp_type="ucs">60aa</cp_value>
+<cp_value cp_type="jis208">16-13</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">61</rad_value>
+<rad_value rad_type="nelson_c">1</rad_value>
+</radical>
+<misc>
+<grade>3</grade>
+<stroke_count>11</stroke_count>
+<variant var_type="jis208">56-08</variant>
+<freq>530</freq>
+<jlpt>3</jlpt>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">62</dic_ref>
+<dic_ref dr_type="nelson_n">1873</dic_ref>
+<dic_ref dr_type="halpern_njecd">2745</dic_ref>
+<dic_ref dr_type="halpern_kkld">1758</dic_ref>
+<dic_ref dr_type="heisig">1810</dic_ref>
+<dic_ref dr_type="gakken">504</dic_ref>
+<dic_ref dr_type="oneill_names">1483A</dic_ref>
+<dic_ref dr_type="oneill_kk">804</dic_ref>
+<dic_ref dr_type="moro" m_vol="4" m_page="1065">10717</dic_ref>
+<dic_ref dr_type="henshall">222</dic_ref>
+<dic_ref dr_type="sh_kk">304</dic_ref>
+<dic_ref dr_type="sakade">152</dic_ref>
+<dic_ref dr_type="jf_cards">175</dic_ref>
+<dic_ref dr_type="henshall3">241</dic_ref>
+<dic_ref dr_type="tutt_cards">369</dic_ref>
+<dic_ref dr_type="crowley">295</dic_ref>
+<dic_ref dr_type="kanji_in_context">114</dic_ref>
+<dic_ref dr_type="busy_people">3.14</dic_ref>
+<dic_ref dr_type="kodansha_compact">785</dic_ref>
+<dic_ref dr_type="maniette">1828</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">2-7-4</q_code>
+<q_code qc_type="sh_desc">4k7.17</q_code>
+<q_code qc_type="four_corner">1033.1</q_code>
+<q_code qc_type="deroo">3258</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">e4</reading>
+<reading r_type="pinyin">e3</reading>
+<reading r_type="pinyin">wu4</reading>
+<reading r_type="korean_r">ag</reading>
+<reading r_type="korean_r">o</reading>
+<reading r_type="korean_h">악</reading>
+<reading r_type="korean_h">오</reading>
+<reading r_type="ja_on">アク</reading>
+<reading r_type="ja_on">オ</reading>
+<reading r_type="ja_kun">わる.い</reading>
+<reading r_type="ja_kun">わる-</reading>
+<reading r_type="ja_kun">あ.し</reading>
+<reading r_type="ja_kun">にく.い</reading>
+<reading r_type="ja_kun">-にく.い</reading>
+<reading r_type="ja_kun">ああ</reading>
+<reading r_type="ja_kun">いずくに</reading>
+<reading r_type="ja_kun">いずくんぞ</reading>
+<reading r_type="ja_kun">にく.む</reading>
+<meaning>bad</meaning>
+<meaning>vice</meaning>
+<meaning>rascal</meaning>
+<meaning>false</meaning>
+<meaning>evil</meaning>
+<meaning>wrong</meaning>
+<meaning m_lang="fr">mauvais</meaning>
+<meaning m_lang="fr">vice</meaning>
+<meaning m_lang="fr">vaurien</meaning>
+<meaning m_lang="fr">faux</meaning>
+<meaning m_lang="fr">mal</meaning>
+<meaning m_lang="es">malo</meaning>
+<meaning m_lang="es">incorrecto</meaning>
+<meaning m_lang="es">equivocado</meaning>
+<meaning m_lang="es">odio</meaning>
+<meaning m_lang="es">mal</meaning>
+<meaning m_lang="pt">mal</meaning>
+<meaning m_lang="pt">ruim</meaning>
+<meaning m_lang="pt">falso</meaning>
+<meaning m_lang="pt">mau</meaning>
+<meaning m_lang="pt">errado</meaning>
+</rmgroup>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 握 -->
+<character>
+<literal>握</literal>
+<codepoint>
+<cp_value cp_type="ucs">63e1</cp_value>
+<cp_value cp_type="jis208">16-14</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">64</rad_value>
+</radical>
+<misc>
+<grade>8</grade>
+<stroke_count>12</stroke_count>
+<freq>1003</freq>
+<jlpt>1</jlpt>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">1963</dic_ref>
+<dic_ref dr_type="nelson_n">2232</dic_ref>
+<dic_ref dr_type="halpern_njecd">585</dic_ref>
+<dic_ref dr_type="halpern_kkld">427</dic_ref>
+<dic_ref dr_type="heisig">1059</dic_ref>
+<dic_ref dr_type="gakken">1467</dic_ref>
+<dic_ref dr_type="oneill_kk">1566</dic_ref>
+<dic_ref dr_type="moro" m_vol="5" m_page="0324">12366</dic_ref>
+<dic_ref dr_type="henshall">999</dic_ref>
+<dic_ref dr_type="sh_kk">1714</dic_ref>
+<dic_ref dr_type="jf_cards">1370</dic_ref>
+<dic_ref dr_type="tutt_cards">1538</dic_ref>
+<dic_ref dr_type="kanji_in_context">1257</dic_ref>
+<dic_ref dr_type="kodansha_compact">911</dic_ref>
+<dic_ref dr_type="maniette">1068</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">1-3-9</q_code>
+<q_code qc_type="sh_desc">3c9.17</q_code>
+<q_code qc_type="four_corner">5701.4</q_code>
+<q_code qc_type="deroo">1372</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">wo4</reading>
+<reading r_type="korean_r">ag</reading>
+<reading r_type="korean_h">악</reading>
+<reading r_type="ja_on">アク</reading>
+<reading r_type="ja_kun">にぎ.る</reading>
+<meaning>grip</meaning>
+<meaning>hold</meaning>
+<meaning>mould sushi</meaning>
+<meaning>bribe</meaning>
+<meaning m_lang="fr">s'agripper</meaning>
+<meaning m_lang="fr">tenir</meaning>
+<meaning m_lang="fr">mouler (sushis)</meaning>
+<meaning m_lang="fr">soudoyer</meaning>
+<meaning m_lang="es">agarrar</meaning>
+<meaning m_lang="es">coger</meaning>
+<meaning m_lang="es">asir</meaning>
+<meaning m_lang="es">empuñar</meaning>
+<meaning m_lang="es">apretar con la mano</meaning>
+<meaning m_lang="pt">agarrar</meaning>
+<meaning m_lang="pt">segurar</meaning>
+<meaning m_lang="pt">moldar sushi</meaning>
+<meaning m_lang="pt">suborno</meaning>
+</rmgroup>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 渥 -->
+<character>
+<literal>渥</literal>
+<codepoint>
+<cp_value cp_type="ucs">6e25</cp_value>
+<cp_value cp_type="jis208">16-15</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">85</rad_value>
+</radical>
+<misc>
+<grade>9</grade>
+<stroke_count>12</stroke_count>
+<freq>2257</freq>
+<jlpt>1</jlpt>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">2613</dic_ref>
+<dic_ref dr_type="nelson_n">3224</dic_ref>
+<dic_ref dr_type="halpern_njecd">600</dic_ref>
+<dic_ref dr_type="halpern_kkld">435</dic_ref>
+<dic_ref dr_type="heisig">2320</dic_ref>
+<dic_ref dr_type="oneill_names">1856</dic_ref>
+<dic_ref dr_type="moro" m_vol="7" m_page="0099">17770</dic_ref>
+<dic_ref dr_type="sh_kk">2143</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">1-3-9</q_code>
+<q_code qc_type="sh_desc">3a9.33</q_code>
+<q_code qc_type="four_corner">3711.4</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">wo4</reading>
+<reading r_type="korean_r">ag</reading>
+<reading r_type="korean_h">악</reading>
+<reading r_type="ja_on">アク</reading>
+<reading r_type="ja_kun">あつ.い</reading>
+<reading r_type="ja_kun">うるお.う</reading>
+<meaning>kindness</meaning>
+<meaning>moisten</meaning>
+<meaning m_lang="es">bondad</meaning>
+<meaning m_lang="es">amabilidad</meaning>
+<meaning m_lang="es">benevolente</meaning>
+<meaning m_lang="es">afectuoso</meaning>
+<meaning m_lang="es">amable</meaning>
+</rmgroup>
+<nanori>あつし</nanori>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 旭 -->
+<character>
+<literal>旭</literal>
+<codepoint>
+<cp_value cp_type="ucs">65ed</cp_value>
+<cp_value cp_type="jis208">16-16</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">72</rad_value>
+</radical>
+<misc>
+<grade>9</grade>
+<stroke_count>6</stroke_count>
+<freq>1417</freq>
+<jlpt>1</jlpt>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">2099</dic_ref>
+<dic_ref dr_type="nelson_n">2416</dic_ref>
+<dic_ref dr_type="halpern_njecd">2977</dic_ref>
+<dic_ref dr_type="halpern_kkld">1890</dic_ref>
+<dic_ref dr_type="heisig">27</dic_ref>
+<dic_ref dr_type="gakken">1146</dic_ref>
+<dic_ref dr_type="oneill_names">300</dic_ref>
+<dic_ref dr_type="moro" m_vol="5" m_page="0749">13747</dic_ref>
+<dic_ref dr_type="sh_kk">2086</dic_ref>
+<dic_ref dr_type="maniette">27</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">3-2-4</q_code>
+<q_code qc_type="sh_desc">4c2.6</q_code>
+<q_code qc_type="four_corner">4601.0</q_code>
+<q_code qc_type="deroo">1657</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">xu4</reading>
+<reading r_type="korean_r">ug</reading>
+<reading r_type="korean_h">욱</reading>
+<reading r_type="ja_on">キョク</reading>
+<reading r_type="ja_kun">あさひ</reading>
+<meaning>rising sun</meaning>
+<meaning>morning sun</meaning>
+<meaning m_lang="fr">soleil levant</meaning>
+<meaning m_lang="es">sol del amanecer</meaning>
+<meaning m_lang="es">sol naciente</meaning>
+</rmgroup>
+<nanori>あきら</nanori>
+<nanori>あき</nanori>
+<nanori>てる</nanori>
+<nanori>ひ</nanori>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 葦 -->
+<character>
+<literal>葦</literal>
+<codepoint>
+<cp_value cp_type="ucs">8466</cp_value>
+<cp_value cp_type="jis208">16-17</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">140</rad_value>
+</radical>
+<misc>
+<grade>9</grade>
+<stroke_count>13</stroke_count>
+<freq>2343</freq>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">3998</dic_ref>
+<dic_ref dr_type="nelson_n">5160</dic_ref>
+<dic_ref dr_type="heisig">2411</dic_ref>
+<dic_ref dr_type="oneill_names">1992</dic_ref>
+<dic_ref dr_type="moro" m_vol="9" m_page="0800">31437</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">2-3-10</q_code>
+<q_code qc_type="sh_desc">3k10.21</q_code>
+<q_code qc_type="four_corner">4450.6</q_code>
+<q_code qc_type="skip" skip_misclass="stroke_diff">2-4-9</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">wei3</reading>
+<reading r_type="korean_r">wi</reading>
+<reading r_type="korean_h">위</reading>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_kun">しお.れる</reading>
+<reading r_type="ja_kun">しな.びる</reading>
+<reading r_type="ja_kun">しぼ.む</reading>
+<reading r_type="ja_kun">な.える</reading>
+<meaning>reed</meaning>
+<meaning>bullrush</meaning>
+</rmgroup>
+<nanori>あし</nanori>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 芦 -->
+<character>
+<literal>芦</literal>
+<codepoint>
+<cp_value cp_type="ucs">82a6</cp_value>
+<cp_value cp_type="jis208">16-18</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">140</rad_value>
+</radical>
+<misc>
+<grade>9</grade>
+<stroke_count>7</stroke_count>
+<variant var_type="jis208">73-35</variant>
+<freq>1733</freq>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">3904</dic_ref>
+<dic_ref dr_type="nelson_n">4975</dic_ref>
+<dic_ref dr_type="heisig">2364</dic_ref>
+<dic_ref dr_type="oneill_names">484</dic_ref>
+<dic_ref dr_type="moro" m_vol="9" m_page="0533">30716</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">2-3-4</q_code>
+<q_code qc_type="sh_desc">3k4.3</q_code>
+<q_code qc_type="four_corner">4427.7</q_code>
+<q_code qc_type="four_corner">4420.7</q_code>
+<q_code qc_type="skip" skip_misclass="stroke_diff">2-4-4</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">lu2</reading>
+<reading r_type="pinyin">lu3</reading>
+<reading r_type="korean_r">ho</reading>
+<reading r_type="korean_h">호</reading>
+<reading r_type="ja_on">ロ</reading>
+<reading r_type="ja_kun">あし</reading>
+<reading r_type="ja_kun">よし</reading>
+<meaning>reed</meaning>
+<meaning>bullrush</meaning>
+<meaning m_lang="es">junco</meaning>
+</rmgroup>
+<nanori>あ</nanori>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 鯵 -->
+<character>
+<literal>鯵</literal>
+<codepoint>
+<cp_value cp_type="ucs">9bf5</cp_value>
+<cp_value cp_type="jis208">16-19</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">195</rad_value>
+</radical>
+<misc>
+<stroke_count>19</stroke_count>
+<variant var_type="jis208">82-45</variant>
+<variant var_type="nelson_c">5324</variant>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_n">6875</dic_ref>
+<dic_ref dr_type="heisig">2818</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">1-11-8</q_code>
+<q_code qc_type="sh_desc">11a11.2</q_code>
+<q_code qc_type="four_corner">2332.2</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">sao1</reading>
+<reading r_type="korean_r">so</reading>
+<reading r_type="korean_h">소</reading>
+<reading r_type="ja_on">ソウ</reading>
+<reading r_type="ja_kun">あじ</reading>
+<meaning>horse mackerel</meaning>
+<meaning m_lang="es">chicharro</meaning>
+<meaning m_lang="es">jurel</meaning>
+</rmgroup>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 梓 -->
+<character>
+<literal>梓</literal>
+<codepoint>
+<cp_value cp_type="ucs">6893</cp_value>
+<cp_value cp_type="jis208">16-20</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">75</rad_value>
+</radical>
+<misc>
+<grade>9</grade>
+<stroke_count>11</stroke_count>
+<freq>2301</freq>
+<jlpt>1</jlpt>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">2268</dic_ref>
+<dic_ref dr_type="nelson_n">2688</dic_ref>
+<dic_ref dr_type="halpern_njecd">962</dic_ref>
+<dic_ref dr_type="halpern_kkld">655</dic_ref>
+<dic_ref dr_type="heisig">1498</dic_ref>
+<dic_ref dr_type="oneill_names">1366</dic_ref>
+<dic_ref dr_type="moro" m_vol="6" m_page="0367">14845</dic_ref>
+<dic_ref dr_type="sh_kk">2113</dic_ref>
+<dic_ref dr_type="maniette">1512</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">1-4-7</q_code>
+<q_code qc_type="sh_desc">4a7.5</q_code>
+<q_code qc_type="four_corner">4094.1</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">zi3</reading>
+<reading r_type="korean_r">jae</reading>
+<reading r_type="korean_r">ja</reading>
+<reading r_type="korean_h">재</reading>
+<reading r_type="korean_h">자</reading>
+<reading r_type="ja_on">シ</reading>
+<reading r_type="ja_kun">あずさ</reading>
+<meaning>catalpa tree</meaning>
+<meaning m_lang="fr">catalpa</meaning>
+<meaning m_lang="es">árbol del catalpa</meaning>
+</rmgroup>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 圧 -->
+<character>
+<literal>圧</literal>
+<codepoint>
+<cp_value cp_type="ucs">5727</cp_value>
+<cp_value cp_type="jis208">16-21</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">32</rad_value>
+<rad_value rad_type="nelson_c">27</rad_value>
+</radical>
+<misc>
+<grade>5</grade>
+<stroke_count>5</stroke_count>
+<variant var_type="jis208">52-58</variant>
+<freq>718</freq>
+<jlpt>2</jlpt>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">818</dic_ref>
+<dic_ref dr_type="nelson_n">970</dic_ref>
+<dic_ref dr_type="halpern_njecd">2970</dic_ref>
+<dic_ref dr_type="halpern_kkld">1883</dic_ref>
+<dic_ref dr_type="heisig">152</dic_ref>
+<dic_ref dr_type="gakken">598</dic_ref>
+<dic_ref dr_type="oneill_kk">874</dic_ref>
+<dic_ref dr_type="moro" m_vol="3" m_page="0122">4879P</dic_ref>
+<dic_ref dr_type="henshall">612</dic_ref>
+<dic_ref dr_type="sh_kk">1342</dic_ref>
+<dic_ref dr_type="sakade">544</dic_ref>
+<dic_ref dr_type="jf_cards">426</dic_ref>
+<dic_ref dr_type="henshall3">641</dic_ref>
+<dic_ref dr_type="tutt_cards">645</dic_ref>
+<dic_ref dr_type="crowley">397</dic_ref>
+<dic_ref dr_type="kanji_in_context">1197</dic_ref>
+<dic_ref dr_type="kodansha_compact">348</dic_ref>
+<dic_ref dr_type="maniette">154</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">3-2-3</q_code>
+<q_code qc_type="sh_desc">2p3.1</q_code>
+<q_code qc_type="four_corner">7121.4</q_code>
+<q_code qc_type="deroo">3372</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">ya1</reading>
+<reading r_type="pinyin">ya4</reading>
+<reading r_type="korean_r">ab</reading>
+<reading r_type="korean_h">압</reading>
+<reading r_type="ja_on">アツ</reading>
+<reading r_type="ja_on">エン</reading>
+<reading r_type="ja_on">オウ</reading>
+<reading r_type="ja_kun">お.す</reading>
+<reading r_type="ja_kun">へ.す</reading>
+<reading r_type="ja_kun">おさ.える</reading>
+<reading r_type="ja_kun">お.さえる</reading>
+<meaning>pressure</meaning>
+<meaning>push</meaning>
+<meaning>overwhelm</meaning>
+<meaning>oppress</meaning>
+<meaning>dominate</meaning>
+<meaning m_lang="fr">pression</meaning>
+<meaning m_lang="fr">pousser</meaning>
+<meaning m_lang="fr">submerger</meaning>
+<meaning m_lang="fr">oppresser</meaning>
+<meaning m_lang="fr">dominer</meaning>
+<meaning m_lang="es">presión</meaning>
+<meaning m_lang="es">opresión</meaning>
+<meaning m_lang="pt">pressão</meaning>
+<meaning m_lang="pt">empurrar</meaning>
+<meaning m_lang="pt">inundar</meaning>
+<meaning m_lang="pt">oprimir</meaning>
+<meaning m_lang="pt">dominar</meaning>
+</rmgroup>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 斡 -->
+<character>
+<literal>斡</literal>
+<codepoint>
+<cp_value cp_type="ucs">65a1</cp_value>
+<cp_value cp_type="jis208">16-22</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">24</rad_value>
+</radical>
+<misc>
+<grade>9</grade>
+<stroke_count>14</stroke_count>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">792</dic_ref>
+<dic_ref dr_type="nelson_n">2378</dic_ref>
+<dic_ref dr_type="heisig">2781</dic_ref>
+<dic_ref dr_type="moro" m_vol="5" m_page="0617">13522</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">1-8-6</q_code>
+<q_code qc_type="sh_desc">4c10.3</q_code>
+<q_code qc_type="four_corner">4844.0</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">wo4</reading>
+<reading r_type="korean_r">al</reading>
+<reading r_type="korean_r">gan</reading>
+<reading r_type="korean_h">알</reading>
+<reading r_type="korean_h">간</reading>
+<reading r_type="ja_on">アツ</reading>
+<reading r_type="ja_on">カン</reading>
+<reading r_type="ja_on">ワツ</reading>
+<reading r_type="ja_kun">めぐ.る</reading>
+<reading r_type="ja_kun">めぐ.らす</reading>
+<meaning>go around</meaning>
+<meaning>rule</meaning>
+<meaning>administer</meaning>
+</rmgroup>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 扱 -->
+<character>
+<literal>扱</literal>
+<codepoint>
+<cp_value cp_type="ucs">6271</cp_value>
+<cp_value cp_type="jis208">16-23</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">64</rad_value>
+</radical>
+<misc>
+<grade>8</grade>
+<stroke_count>6</stroke_count>
+<freq>1057</freq>
+<jlpt>1</jlpt>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">1836</dic_ref>
+<dic_ref dr_type="nelson_n">2070</dic_ref>
+<dic_ref dr_type="halpern_njecd">217</dic_ref>
+<dic_ref dr_type="halpern_kkld">159</dic_ref>
+<dic_ref dr_type="heisig">690</dic_ref>
+<dic_ref dr_type="gakken">840</dic_ref>
+<dic_ref dr_type="oneill_kk">1330</dic_ref>
+<dic_ref dr_type="moro" m_vol="5" m_page="0108">11835X</dic_ref>
+<dic_ref dr_type="henshall">1000</dic_ref>
+<dic_ref dr_type="sh_kk">1258</dic_ref>
+<dic_ref dr_type="jf_cards">1335</dic_ref>
+<dic_ref dr_type="tutt_cards">1076</dic_ref>
+<dic_ref dr_type="kanji_in_context">1266</dic_ref>
+<dic_ref dr_type="kodansha_compact">856</dic_ref>
+<dic_ref dr_type="maniette">697</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">1-3-3</q_code>
+<q_code qc_type="sh_desc">3c3.5</q_code>
+<q_code qc_type="four_corner">5704.7</q_code>
+<q_code qc_type="deroo">1367</q_code>
+<q_code qc_type="skip" skip_misclass="stroke_count">1-3-4</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">xi1</reading>
+<reading r_type="korean_r">geub</reading>
+<reading r_type="korean_r">sab</reading>
+<reading r_type="korean_h">급</reading>
+<reading r_type="korean_h">삽</reading>
+<reading r_type="ja_on">ソウ</reading>
+<reading r_type="ja_on">キュウ</reading>
+<reading r_type="ja_kun">あつか.い</reading>
+<reading r_type="ja_kun">あつか.う</reading>
+<reading r_type="ja_kun">あつか.る</reading>
+<reading r_type="ja_kun">こ.く</reading>
+<meaning>handle</meaning>
+<meaning>entertain</meaning>
+<meaning>thresh</meaning>
+<meaning>strip</meaning>
+<meaning m_lang="fr">manoeuvrer</meaning>
+<meaning m_lang="fr">prendre en main</meaning>
+<meaning m_lang="fr">battre</meaning>
+<meaning m_lang="fr">arracher</meaning>
+<meaning m_lang="es">tratar</meaning>
+<meaning m_lang="es">manejar</meaning>
+<meaning m_lang="es">desempeñar</meaning>
+<meaning m_lang="pt">cabo</meaning>
+<meaning m_lang="pt">entreter</meaning>
+<meaning m_lang="pt">debulhar</meaning>
+<meaning m_lang="pt">desnudar</meaning>
+</rmgroup>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 宛 -->
+<character>
+<literal>宛</literal>
+<codepoint>
+<cp_value cp_type="ucs">5b9b</cp_value>
+<cp_value cp_type="jis208">16-24</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">40</rad_value>
+</radical>
+<misc>
+<grade>8</grade>
+<stroke_count>8</stroke_count>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">1292</dic_ref>
+<dic_ref dr_type="nelson_n">1319</dic_ref>
+<dic_ref dr_type="halpern_njecd">2222</dic_ref>
+<dic_ref dr_type="heisig">1417</dic_ref>
+<dic_ref dr_type="gakken">1799</dic_ref>
+<dic_ref dr_type="oneill_kk">1897</dic_ref>
+<dic_ref dr_type="moro" m_vol="3" m_page="0983">7110</dic_ref>
+<dic_ref dr_type="maniette">1429</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">2-3-5</q_code>
+<q_code qc_type="sh_desc">3m5.9</q_code>
+<q_code qc_type="four_corner">3021.2</q_code>
+<q_code qc_type="deroo">756</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">wan3</reading>
+<reading r_type="pinyin">yuan1</reading>
+<reading r_type="korean_r">wan</reading>
+<reading r_type="korean_r">weon</reading>
+<reading r_type="korean_h">완</reading>
+<reading r_type="korean_h">원</reading>
+<reading r_type="ja_on">エン</reading>
+<reading r_type="ja_kun">あ.てる</reading>
+<reading r_type="ja_kun">-あて</reading>
+<reading r_type="ja_kun">-づつ</reading>
+<reading r_type="ja_kun">あたか.も</reading>
+<meaning>address</meaning>
+<meaning>just like</meaning>
+<meaning>fortunately</meaning>
+<meaning m_lang="fr">adresse (postale)</meaning>
+<meaning m_lang="fr">comme si</meaning>
+<meaning m_lang="fr">de chaque</meaning>
+<meaning m_lang="fr">heureusement</meaning>
+<meaning m_lang="es">algo así como</meaning>
+<meaning m_lang="es">enteramente</meaning>
+<meaning m_lang="es">completamente</meaning>
+<meaning m_lang="es">dirección</meaning>
+<meaning m_lang="es">afortunadamente</meaning>
+</rmgroup>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 姐 -->
+<character>
+<literal>姐</literal>
+<codepoint>
+<cp_value cp_type="ucs">59d0</cp_value>
+<cp_value cp_type="jis208">16-25</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">38</rad_value>
+</radical>
+<misc>
+<stroke_count>8</stroke_count>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">1202</dic_ref>
+<dic_ref dr_type="nelson_n">1195</dic_ref>
+<dic_ref dr_type="heisig">2206</dic_ref>
+<dic_ref dr_type="moro" m_vol="3" m_page="0665">6172</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">1-3-5</q_code>
+<q_code qc_type="sh_desc">3e5.5</q_code>
+<q_code qc_type="four_corner">4741.0</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">jie3</reading>
+<reading r_type="korean_r">jeo</reading>
+<reading r_type="korean_h">저</reading>
+<reading r_type="ja_on">ソ</reading>
+<reading r_type="ja_on">シャ</reading>
+<reading r_type="ja_kun">あね</reading>
+<reading r_type="ja_kun">ねえさん</reading>
+<meaning>elder sister</meaning>
+<meaning>maidservant</meaning>
+</rmgroup>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 虻 -->
+<character>
+<literal>虻</literal>
+<codepoint>
+<cp_value cp_type="ucs">867b</cp_value>
+<cp_value cp_type="jis208">16-26</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">142</rad_value>
+</radical>
+<misc>
+<stroke_count>9</stroke_count>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">4117</dic_ref>
+<dic_ref dr_type="nelson_n">5277</dic_ref>
+<dic_ref dr_type="oneill_names">1134</dic_ref>
+<dic_ref dr_type="moro" m_vol="10" m_page="0005">32835</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">1-6-3</q_code>
+<q_code qc_type="sh_desc">6d3.2</q_code>
+<q_code qc_type="four_corner">5011.0</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">meng2</reading>
+<reading r_type="korean_r">maeng</reading>
+<reading r_type="korean_h">맹</reading>
+<reading r_type="ja_on">ボウ</reading>
+<reading r_type="ja_kun">あぶ</reading>
+<meaning>gadfly</meaning>
+<meaning>horsefly</meaning>
+</rmgroup>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 飴 -->
+<character>
+<literal>飴</literal>
+<codepoint>
+<cp_value cp_type="ucs">98f4</cp_value>
+<cp_value cp_type="jis208">16-27</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">184</rad_value>
+</radical>
+<misc>
+<stroke_count>13</stroke_count>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">5160</dic_ref>
+<dic_ref dr_type="nelson_n">6682</dic_ref>
+<dic_ref dr_type="heisig">2801</dic_ref>
+<dic_ref dr_type="moro" m_vol="12" m_page="0388">44080X</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">1-8-5</q_code>
+<q_code qc_type="sh_desc">8b5.2</q_code>
+<q_code qc_type="four_corner">8376.0</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">yi2</reading>
+<reading r_type="korean_r">i</reading>
+<reading r_type="korean_r">sa</reading>
+<reading r_type="korean_h">이</reading>
+<reading r_type="korean_h">사</reading>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_on">シ</reading>
+<reading r_type="ja_kun">あめ</reading>
+<reading r_type="ja_kun">やしな.う</reading>
+<meaning>rice jelly</meaning>
+<meaning>candy</meaning>
+<meaning m_lang="es">golosina</meaning>
+<meaning m_lang="es">dulce de arroz</meaning>
+</rmgroup>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 絢 -->
+<character>
+<literal>絢</literal>
+<codepoint>
+<cp_value cp_type="ucs">7d62</cp_value>
+<cp_value cp_type="jis208">16-28</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">120</rad_value>
+</radical>
+<misc>
+<grade>9</grade>
+<stroke_count>12</stroke_count>
+<freq>2315</freq>
+<jlpt>1</jlpt>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">3530</dic_ref>
+<dic_ref dr_type="nelson_n">4481</dic_ref>
+<dic_ref dr_type="halpern_njecd">1347</dic_ref>
+<dic_ref dr_type="halpern_kkld">911</dic_ref>
+<dic_ref dr_type="heisig">2664</dic_ref>
+<dic_ref dr_type="oneill_names">2150</dic_ref>
+<dic_ref dr_type="moro" m_vol="8" m_page="1051">27427</dic_ref>
+<dic_ref dr_type="sh_kk">2194</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">1-6-6</q_code>
+<q_code qc_type="sh_desc">6a6.14</q_code>
+<q_code qc_type="four_corner">2792.0</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">xuan4</reading>
+<reading r_type="korean_r">hyeon</reading>
+<reading r_type="korean_h">현</reading>
+<reading r_type="ja_on">ケン</reading>
+<meaning>kimono design</meaning>
+<meaning m_lang="es">magnífico</meaning>
+<meaning m_lang="es">resplandeciente</meaning>
+</rmgroup>
+<nanori>じゅん</nanori>
+<nanori>あや</nanori>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 綾 -->
+<character>
+<literal>綾</literal>
+<codepoint>
+<cp_value cp_type="ucs">7dbe</cp_value>
+<cp_value cp_type="jis208">16-29</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">120</rad_value>
+</radical>
+<misc>
+<grade>9</grade>
+<stroke_count>14</stroke_count>
+<freq>1759</freq>
+<jlpt>1</jlpt>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">3559</dic_ref>
+<dic_ref dr_type="nelson_n">4523</dic_ref>
+<dic_ref dr_type="halpern_njecd">1376</dic_ref>
+<dic_ref dr_type="halpern_kkld">933</dic_ref>
+<dic_ref dr_type="heisig">2668</dic_ref>
+<dic_ref dr_type="oneill_names">2541</dic_ref>
+<dic_ref dr_type="oneill_kk">1994</dic_ref>
+<dic_ref dr_type="moro" m_vol="8" m_page="1109">27591</dic_ref>
+<dic_ref dr_type="sh_kk">2198</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">1-6-8</q_code>
+<q_code qc_type="sh_desc">6a8.10</q_code>
+<q_code qc_type="four_corner">2494.7</q_code>
+<q_code qc_type="deroo">2767</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">ling2</reading>
+<reading r_type="korean_r">reung</reading>
+<reading r_type="korean_h">릉</reading>
+<reading r_type="ja_on">リン</reading>
+<reading r_type="ja_kun">あや</reading>
+<meaning>design</meaning>
+<meaning>figured cloth</meaning>
+<meaning>twill</meaning>
+<meaning m_lang="es">sarga</meaning>
+<meaning m_lang="es">tela con diseño</meaning>
+</rmgroup>
+<nanori>りょう</nanori>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 鮎 -->
+<character>
+<literal>鮎</literal>
+<codepoint>
+<cp_value cp_type="ucs">9b8e</cp_value>
+<cp_value cp_type="jis208">16-30</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">195</rad_value>
+</radical>
+<misc>
+<grade>9</grade>
+<stroke_count>16</stroke_count>
+<freq>2201</freq>
+<jlpt>1</jlpt>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">5288</dic_ref>
+<dic_ref dr_type="nelson_n">6855</dic_ref>
+<dic_ref dr_type="halpern_njecd">1876</dic_ref>
+<dic_ref dr_type="halpern_kkld">1209</dic_ref>
+<dic_ref dr_type="heisig">2817</dic_ref>
+<dic_ref dr_type="oneill_names">2547</dic_ref>
+<dic_ref dr_type="moro" m_vol="12" m_page="0734">46070</dic_ref>
+<dic_ref dr_type="sh_kk">2270</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">1-11-5</q_code>
+<q_code qc_type="sh_desc">11a5.7</q_code>
+<q_code qc_type="four_corner">2136.0</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">nian2</reading>
+<reading r_type="korean_r">jeom</reading>
+<reading r_type="korean_h">점</reading>
+<reading r_type="ja_on">デン</reading>
+<reading r_type="ja_on">ネン</reading>
+<reading r_type="ja_kun">あゆ</reading>
+<reading r_type="ja_kun">なまず</reading>
+<meaning>freshwater trout</meaning>
+<meaning>smelt</meaning>
+<meaning m_lang="es">trucha</meaning>
+</rmgroup>
+<nanori>あい</nanori>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 或 -->
+<character>
+<literal>或</literal>
+<codepoint>
+<cp_value cp_type="ucs">6216</cp_value>
+<cp_value cp_type="jis208">16-31</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">62</rad_value>
+</radical>
+<misc>
+<grade>9</grade>
+<stroke_count>8</stroke_count>
+<freq>2378</freq>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">1802</dic_ref>
+<dic_ref dr_type="nelson_n">2030</dic_ref>
+<dic_ref dr_type="heisig">2091</dic_ref>
+<dic_ref dr_type="oneill_names">750</dic_ref>
+<dic_ref dr_type="oneill_kk">1894</dic_ref>
+<dic_ref dr_type="moro" m_vol="5" m_page="0027">11563</dic_ref>
+<dic_ref dr_type="crowley">493</dic_ref>
+<dic_ref dr_type="maniette">621</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">3-4-4</q_code>
+<q_code qc_type="sh_desc">4n4.2</q_code>
+<q_code qc_type="four_corner">5310.0</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">huo4</reading>
+<reading r_type="korean_r">hog</reading>
+<reading r_type="korean_h">혹</reading>
+<reading r_type="ja_on">ワク</reading>
+<reading r_type="ja_on">コク</reading>
+<reading r_type="ja_on">イキ</reading>
+<reading r_type="ja_kun">あ.る</reading>
+<reading r_type="ja_kun">あるい</reading>
+<reading r_type="ja_kun">あるいは</reading>
+<meaning>some</meaning>
+<meaning>one</meaning>
+<meaning>or</meaning>
+<meaning>possibly</meaning>
+<meaning>a certain</meaning>
+<meaning m_lang="fr">un certain</meaning>
+<meaning m_lang="fr">un</meaning>
+<meaning m_lang="fr">ou</meaning>
+<meaning m_lang="fr">ou bien</meaning>
+<meaning m_lang="es">cierto</meaning>
+<meaning m_lang="es">o</meaning>
+<meaning m_lang="es">posiblemente</meaning>
+</rmgroup>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 粟 -->
+<character>
+<literal>粟</literal>
+<codepoint>
+<cp_value cp_type="ucs">7c9f</cp_value>
+<cp_value cp_type="jis208">16-32</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">146</rad_value>
+</radical>
+<misc>
+<grade>9</grade>
+<stroke_count>12</stroke_count>
+<freq>2146</freq>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">4277</dic_ref>
+<dic_ref dr_type="nelson_n">4403</dic_ref>
+<dic_ref dr_type="heisig">2654</dic_ref>
+<dic_ref dr_type="oneill_names">1763</dic_ref>
+<dic_ref dr_type="moro" m_vol="8" m_page="0895">26922</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">2-6-6</q_code>
+<q_code qc_type="sh_desc">6b6.6</q_code>
+<q_code qc_type="four_corner">1090.4</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">su4</reading>
+<reading r_type="korean_r">sog</reading>
+<reading r_type="korean_h">속</reading>
+<reading r_type="ja_on">ゾク</reading>
+<reading r_type="ja_on">ショク</reading>
+<reading r_type="ja_on">ソク</reading>
+<reading r_type="ja_kun">あわ</reading>
+<reading r_type="ja_kun">もみ</reading>
+<meaning>millet</meaning>
+<meaning m_lang="es">mijo</meaning>
+</rmgroup>
+<nanori>あ</nanori>
+<nanori>さっ</nanori>
+<nanori>そう</nanori>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 袷 -->
+<character>
+<literal>袷</literal>
+<codepoint>
+<cp_value cp_type="ucs">88b7</cp_value>
+<cp_value cp_type="jis208">16-33</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">145</rad_value>
+</radical>
+<misc>
+<stroke_count>11</stroke_count>
+<variant var_type="jis212">60-39</variant>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">4230</dic_ref>
+<dic_ref dr_type="nelson_n">5449</dic_ref>
+<dic_ref dr_type="heisig">2625</dic_ref>
+<dic_ref dr_type="moro" m_vol="10" m_page="0209">34240</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">1-5-6</q_code>
+<q_code qc_type="sh_desc">5e6.6</q_code>
+<q_code qc_type="four_corner">3826.1</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">jia2</reading>
+<reading r_type="pinyin">qia1</reading>
+<reading r_type="korean_r">geob</reading>
+<reading r_type="korean_r">gyeob</reading>
+<reading r_type="korean_h">겁</reading>
+<reading r_type="korean_h">겹</reading>
+<reading r_type="ja_on">コウ</reading>
+<reading r_type="ja_on">キョウ</reading>
+<reading r_type="ja_kun">あわせ</reading>
+<meaning>lined (kimono)</meaning>
+</rmgroup>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 安 -->
+<character>
+<literal>安</literal>
+<codepoint>
+<cp_value cp_type="ucs">5b89</cp_value>
+<cp_value cp_type="jis208">16-34</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">40</rad_value>
+</radical>
+<misc>
+<grade>3</grade>
+<stroke_count>6</stroke_count>
+<freq>144</freq>
+<jlpt>4</jlpt>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">1283</dic_ref>
+<dic_ref dr_type="nelson_n">1311</dic_ref>
+<dic_ref dr_type="halpern_njecd">2171</dic_ref>
+<dic_ref dr_type="halpern_kkld">1373</dic_ref>
+<dic_ref dr_type="heisig">190</dic_ref>
+<dic_ref dr_type="gakken">128</dic_ref>
+<dic_ref dr_type="oneill_names">472</dic_ref>
+<dic_ref dr_type="oneill_kk">98</dic_ref>
+<dic_ref dr_type="moro" m_vol="3" m_page="0909">7072</dic_ref>
+<dic_ref dr_type="henshall">223</dic_ref>
+<dic_ref dr_type="sh_kk">105</dic_ref>
+<dic_ref dr_type="sakade">153</dic_ref>
+<dic_ref dr_type="jf_cards">45</dic_ref>
+<dic_ref dr_type="henshall3">242</dic_ref>
+<dic_ref dr_type="tutt_cards">263</dic_ref>
+<dic_ref dr_type="crowley">165</dic_ref>
+<dic_ref dr_type="kanji_in_context">84</dic_ref>
+<dic_ref dr_type="busy_people">2.5</dic_ref>
+<dic_ref dr_type="kodansha_compact">464</dic_ref>
+<dic_ref dr_type="maniette">193</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">2-3-3</q_code>
+<q_code qc_type="sh_desc">3m3.1</q_code>
+<q_code qc_type="four_corner">3040.4</q_code>
+<q_code qc_type="deroo">769</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">an1</reading>
+<reading r_type="korean_r">an</reading>
+<reading r_type="korean_h">안</reading>
+<reading r_type="ja_on">アン</reading>
+<reading r_type="ja_kun">やす.い</reading>
+<reading r_type="ja_kun">やす.まる</reading>
+<reading r_type="ja_kun">やす</reading>
+<reading r_type="ja_kun">やす.らか</reading>
+<meaning>relax</meaning>
+<meaning>cheap</meaning>
+<meaning>low</meaning>
+<meaning>quiet</meaning>
+<meaning>rested</meaning>
+<meaning>contented</meaning>
+<meaning>peaceful</meaning>
+<meaning m_lang="fr">paisible</meaning>
+<meaning m_lang="fr">calme</meaning>
+<meaning m_lang="fr">tranquille</meaning>
+<meaning m_lang="fr">pas cher</meaning>
+<meaning m_lang="fr">reposant</meaning>
+<meaning m_lang="fr">satisfait</meaning>
+<meaning m_lang="es">barato</meaning>
+<meaning m_lang="es">tranquilo</meaning>
+<meaning m_lang="es">pacífico</meaning>
+<meaning m_lang="pt">relaxar</meaning>
+<meaning m_lang="pt">calmo</meaning>
+<meaning m_lang="pt">baixo</meaning>
+<meaning m_lang="pt">barato</meaning>
+<meaning m_lang="pt">descansado</meaning>
+<meaning m_lang="pt">pacífico</meaning>
+<meaning m_lang="pt">satisfeito</meaning>
+</rmgroup>
+<nanori>あ</nanori>
+<nanori>あす</nanori>
+<nanori>あず</nanori>
+<nanori>あっ</nanori>
+<nanori>や</nanori>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 庵 -->
+<character>
+<literal>庵</literal>
+<codepoint>
+<cp_value cp_type="ucs">5eb5</cp_value>
+<cp_value cp_type="jis208">16-35</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">53</rad_value>
+</radical>
+<misc>
+<grade>9</grade>
+<stroke_count>11</stroke_count>
+<variant var_type="jis208">72-31</variant>
+<variant var_type="jis212">56-50</variant>
+<freq>2119</freq>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">1521</dic_ref>
+<dic_ref dr_type="nelson_n">1623</dic_ref>
+<dic_ref dr_type="heisig">2056</dic_ref>
+<dic_ref dr_type="oneill_names">1506</dic_ref>
+<dic_ref dr_type="moro" m_vol="4" m_page="0577">9369</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">3-3-8</q_code>
+<q_code qc_type="sh_desc">3q8.6</q_code>
+<q_code qc_type="four_corner">0021.6</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">an1</reading>
+<reading r_type="korean_r">am</reading>
+<reading r_type="korean_h">암</reading>
+<reading r_type="ja_on">アン</reading>
+<reading r_type="ja_kun">いおり</reading>
+<reading r_type="ja_kun">いお</reading>
+<meaning>hermitage</meaning>
+<meaning>retreat</meaning>
+<meaning m_lang="es">retiro</meaning>
+<meaning m_lang="es">cabaña</meaning>
+<meaning m_lang="es">ermita</meaning>
+<meaning m_lang="es">ermita (de paja)</meaning>
+</rmgroup>
+<nanori>あ</nanori>
+<nanori>い</nanori>
+<nanori>いほり</nanori>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 按 -->
+<character>
+<literal>按</literal>
+<codepoint>
+<cp_value cp_type="ucs">6309</cp_value>
+<cp_value cp_type="jis208">16-36</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">64</rad_value>
+</radical>
+<misc>
+<grade>9</grade>
+<stroke_count>9</stroke_count>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">1899</dic_ref>
+<dic_ref dr_type="nelson_n">2147</dic_ref>
+<dic_ref dr_type="halpern_njecd">371</dic_ref>
+<dic_ref dr_type="heisig">2259</dic_ref>
+<dic_ref dr_type="oneill_names">1044</dic_ref>
+<dic_ref dr_type="moro" m_vol="5" m_page="0222">12038</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">1-3-6</q_code>
+<q_code qc_type="sh_desc">3c6.10</q_code>
+<q_code qc_type="four_corner">5304.4</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">an4</reading>
+<reading r_type="korean_r">an</reading>
+<reading r_type="korean_r">al</reading>
+<reading r_type="korean_h">안</reading>
+<reading r_type="korean_h">알</reading>
+<reading r_type="ja_on">アン</reading>
+<reading r_type="ja_kun">おさ.える</reading>
+<reading r_type="ja_kun">しら.べる</reading>
+<meaning>hold</meaning>
+<meaning>consider</meaning>
+<meaning>investigate</meaning>
+</rmgroup>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 暗 -->
+<character>
+<literal>暗</literal>
+<codepoint>
+<cp_value cp_type="ucs">6697</cp_value>
+<cp_value cp_type="jis208">16-37</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">72</rad_value>
+</radical>
+<misc>
+<grade>3</grade>
+<stroke_count>13</stroke_count>
+<freq>1040</freq>
+<jlpt>3</jlpt>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">2154</dic_ref>
+<dic_ref dr_type="nelson_n">2503</dic_ref>
+<dic_ref dr_type="halpern_njecd">1010</dic_ref>
+<dic_ref dr_type="halpern_kkld">689</dic_ref>
+<dic_ref dr_type="heisig">480</dic_ref>
+<dic_ref dr_type="gakken">1044</dic_ref>
+<dic_ref dr_type="oneill_names">1883</dic_ref>
+<dic_ref dr_type="oneill_kk">576</dic_ref>
+<dic_ref dr_type="moro" m_vol="5" m_page="0916">14065</dic_ref>
+<dic_ref dr_type="henshall">224</dic_ref>
+<dic_ref dr_type="sh_kk">348</dic_ref>
+<dic_ref dr_type="sakade">154</dic_ref>
+<dic_ref dr_type="jf_cards">191</dic_ref>
+<dic_ref dr_type="henshall3">243</dic_ref>
+<dic_ref dr_type="tutt_cards">415</dic_ref>
+<dic_ref dr_type="kanji_in_context">107</dic_ref>
+<dic_ref dr_type="kodansha_compact">992</dic_ref>
+<dic_ref dr_type="maniette">491</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">1-4-9</q_code>
+<q_code qc_type="sh_desc">4c9.2</q_code>
+<q_code qc_type="four_corner">6006.1</q_code>
+<q_code qc_type="deroo">3878</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">an4</reading>
+<reading r_type="korean_r">am</reading>
+<reading r_type="korean_h">암</reading>
+<reading r_type="ja_on">アン</reading>
+<reading r_type="ja_kun">くら.い</reading>
+<reading r_type="ja_kun">くら.む</reading>
+<reading r_type="ja_kun">くれ.る</reading>
+<meaning>darkness</meaning>
+<meaning>disappear</meaning>
+<meaning>shade</meaning>
+<meaning>informal</meaning>
+<meaning>grow dark</meaning>
+<meaning>be blinded</meaning>
+<meaning m_lang="fr">obscurité</meaning>
+<meaning m_lang="fr">disparaître</meaning>
+<meaning m_lang="fr">ombre</meaning>
+<meaning m_lang="fr">informel</meaning>
+<meaning m_lang="fr">s'assombrir</meaning>
+<meaning m_lang="fr">être aveuglé</meaning>
+<meaning m_lang="es">oscuro</meaning>
+<meaning m_lang="es">poco claro</meaning>
+<meaning m_lang="es">memorizar</meaning>
+<meaning m_lang="es">sombrío</meaning>
+<meaning m_lang="pt">escuridão</meaning>
+<meaning m_lang="pt">desaparecer</meaning>
+<meaning m_lang="pt">sombra</meaning>
+<meaning m_lang="pt">informal</meaning>
+<meaning m_lang="pt">escurecer</meaning>
+<meaning m_lang="pt">cegar</meaning>
+</rmgroup>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 案 -->
+<character>
+<literal>案</literal>
+<codepoint>
+<cp_value cp_type="ucs">6848</cp_value>
+<cp_value cp_type="jis208">16-38</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">75</rad_value>
+<rad_value rad_type="nelson_c">40</rad_value>
+</radical>
+<misc>
+<grade>4</grade>
+<stroke_count>10</stroke_count>
+<freq>206</freq>
+<jlpt>2</jlpt>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">1308</dic_ref>
+<dic_ref dr_type="nelson_n">2667</dic_ref>
+<dic_ref dr_type="halpern_njecd">2270</dic_ref>
+<dic_ref dr_type="halpern_kkld">1455</dic_ref>
+<dic_ref dr_type="heisig">214</dic_ref>
+<dic_ref dr_type="gakken">218</dic_ref>
+<dic_ref dr_type="oneill_kk">500</dic_ref>
+<dic_ref dr_type="moro" m_vol="6" m_page="0327">14762</dic_ref>
+<dic_ref dr_type="henshall">418</dic_ref>
+<dic_ref dr_type="sh_kk">106</dic_ref>
+<dic_ref dr_type="sakade">340</dic_ref>
+<dic_ref dr_type="jf_cards">634</dic_ref>
+<dic_ref dr_type="henshall3">442</dic_ref>
+<dic_ref dr_type="tutt_cards">537</dic_ref>
+<dic_ref dr_type="crowley">353</dic_ref>
+<dic_ref dr_type="kanji_in_context">305</dic_ref>
+<dic_ref dr_type="kodansha_compact">1060</dic_ref>
+<dic_ref dr_type="maniette">218</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">2-3-7</q_code>
+<q_code qc_type="sh_desc">3m7.6</q_code>
+<q_code qc_type="four_corner">3090.4</q_code>
+<q_code qc_type="deroo">764</q_code>
+<q_code qc_type="skip" skip_misclass="posn">2-6-4</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">an4</reading>
+<reading r_type="korean_r">an</reading>
+<reading r_type="korean_h">안</reading>
+<reading r_type="ja_on">アン</reading>
+<reading r_type="ja_kun">つくえ</reading>
+<meaning>plan</meaning>
+<meaning>suggestion</meaning>
+<meaning>draft</meaning>
+<meaning>ponder</meaning>
+<meaning>fear</meaning>
+<meaning>proposition</meaning>
+<meaning>idea</meaning>
+<meaning>expectation</meaning>
+<meaning>worry</meaning>
+<meaning>table</meaning>
+<meaning>bench</meaning>
+<meaning m_lang="fr">plan</meaning>
+<meaning m_lang="fr">suggestion</meaning>
+<meaning m_lang="fr">projet (loi)</meaning>
+<meaning m_lang="fr">réflexion</meaning>
+<meaning m_lang="fr">peur</meaning>
+<meaning m_lang="fr">proposition</meaning>
+<meaning m_lang="fr">idée</meaning>
+<meaning m_lang="fr">attente</meaning>
+<meaning m_lang="es">plan</meaning>
+<meaning m_lang="es">idea</meaning>
+<meaning m_lang="es">sugerencia</meaning>
+<meaning m_lang="es">borrador</meaning>
+<meaning m_lang="pt">plano</meaning>
+<meaning m_lang="pt">sugestão</meaning>
+<meaning m_lang="pt">esboço</meaning>
+<meaning m_lang="pt">ponderar</meaning>
+<meaning m_lang="pt">medo</meaning>
+<meaning m_lang="pt">proposição</meaning>
+<meaning m_lang="pt">idéia</meaning>
+<meaning m_lang="pt">expectativa</meaning>
+<meaning m_lang="pt">conta</meaning>
+<meaning m_lang="pt">preocupar</meaning>
+</rmgroup>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 闇 -->
+<character>
+<literal>闇</literal>
+<codepoint>
+<cp_value cp_type="ucs">95c7</cp_value>
+<cp_value cp_type="jis208">16-39</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">169</rad_value>
+</radical>
+<misc>
+<grade>8</grade>
+<stroke_count>17</stroke_count>
+<freq>1969</freq>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">4969</dic_ref>
+<dic_ref dr_type="nelson_n">6414</dic_ref>
+<dic_ref dr_type="halpern_njecd">3332</dic_ref>
+<dic_ref dr_type="heisig">2777</dic_ref>
+<dic_ref dr_type="gakken">1758</dic_ref>
+<dic_ref dr_type="oneill_names">2709</dic_ref>
+<dic_ref dr_type="oneill_kk">1899</dic_ref>
+<dic_ref dr_type="moro" m_vol="11" m_page="0757">41421</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">3-8-9</q_code>
+<q_code qc_type="sh_desc">8e9.5</q_code>
+<q_code qc_type="four_corner">7760.1</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">an4</reading>
+<reading r_type="korean_r">am</reading>
+<reading r_type="korean_h">암</reading>
+<reading r_type="ja_on">アン</reading>
+<reading r_type="ja_on">オン</reading>
+<reading r_type="ja_kun">やみ</reading>
+<reading r_type="ja_kun">くら.い</reading>
+<meaning>get dark</meaning>
+<meaning>gloom</meaning>
+<meaning>disorder</meaning>
+<meaning m_lang="es">oscuro</meaning>
+<meaning m_lang="es">sombrío</meaning>
+<meaning m_lang="es">poco claro</meaning>
+<meaning m_lang="es">sin esperanza</meaning>
+<meaning m_lang="es">confuso</meaning>
+</rmgroup>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 鞍 -->
+<character>
+<literal>鞍</literal>
+<codepoint>
+<cp_value cp_type="ucs">978d</cp_value>
+<cp_value cp_type="jis208">16-40</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">177</rad_value>
+</radical>
+<misc>
+<grade>9</grade>
+<stroke_count>15</stroke_count>
+<freq>2214</freq>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">5098</dic_ref>
+<dic_ref dr_type="nelson_n">6586</dic_ref>
+<dic_ref dr_type="heisig">2782</dic_ref>
+<dic_ref dr_type="oneill_names">2543</dic_ref>
+<dic_ref dr_type="moro" m_vol="12" m_page="0161">42815</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">1-9-6</q_code>
+<q_code qc_type="sh_desc">3k12.19</q_code>
+<q_code qc_type="four_corner">4354.4</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">an1</reading>
+<reading r_type="korean_r">an</reading>
+<reading r_type="korean_h">안</reading>
+<reading r_type="ja_on">アン</reading>
+<reading r_type="ja_kun">くら</reading>
+<meaning>saddle</meaning>
+<meaning m_lang="es">silla de montar</meaning>
+</rmgroup>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 杏 -->
+<character>
+<literal>杏</literal>
+<codepoint>
+<cp_value cp_type="ucs">674f</cp_value>
+<cp_value cp_type="jis208">16-41</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">75</rad_value>
+</radical>
+<misc>
+<grade>9</grade>
+<stroke_count>7</stroke_count>
+<freq>2159</freq>
+<jlpt>1</jlpt>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">2185</dic_ref>
+<dic_ref dr_type="nelson_n">2554</dic_ref>
+<dic_ref dr_type="halpern_njecd">2397</dic_ref>
+<dic_ref dr_type="halpern_kkld">1554</dic_ref>
+<dic_ref dr_type="heisig">203</dic_ref>
+<dic_ref dr_type="oneill_names">487</dic_ref>
+<dic_ref dr_type="moro" m_vol="6" m_page="0139">14461</dic_ref>
+<dic_ref dr_type="sh_kk">2102</dic_ref>
+<dic_ref dr_type="maniette">207</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">2-4-3</q_code>
+<q_code qc_type="sh_desc">4a3.13</q_code>
+<q_code qc_type="four_corner">4060.9</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">xing4</reading>
+<reading r_type="korean_r">haeng</reading>
+<reading r_type="korean_h">행</reading>
+<reading r_type="ja_on">キョウ</reading>
+<reading r_type="ja_on">アン</reading>
+<reading r_type="ja_on">コウ</reading>
+<reading r_type="ja_kun">あんず</reading>
+<meaning>apricot</meaning>
+<meaning m_lang="fr">abricot</meaning>
+<meaning m_lang="es">albaricoque</meaning>
+</rmgroup>
+<nanori>りょう</nanori>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 以 -->
+<character>
+<literal>以</literal>
+<codepoint>
+<cp_value cp_type="ucs">4ee5</cp_value>
+<cp_value cp_type="jis208">16-42</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">9</rad_value>
+</radical>
+<misc>
+<grade>4</grade>
+<stroke_count>5</stroke_count>
+<freq>126</freq>
+<jlpt>3</jlpt>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">348</dic_ref>
+<dic_ref dr_type="nelson_n">109</dic_ref>
+<dic_ref dr_type="halpern_njecd">41</dic_ref>
+<dic_ref dr_type="halpern_kkld">25</dic_ref>
+<dic_ref dr_type="heisig">1028</dic_ref>
+<dic_ref dr_type="gakken">157</dic_ref>
+<dic_ref dr_type="oneill_names">134</dic_ref>
+<dic_ref dr_type="oneill_kk">221</dic_ref>
+<dic_ref dr_type="moro" m_vol="1" m_page="0620">388</dic_ref>
+<dic_ref dr_type="henshall">419</dic_ref>
+<dic_ref dr_type="sh_kk">46</dic_ref>
+<dic_ref dr_type="sakade">342</dic_ref>
+<dic_ref dr_type="jf_cards">112</dic_ref>
+<dic_ref dr_type="henshall3">443</dic_ref>
+<dic_ref dr_type="tutt_cards">446</dic_ref>
+<dic_ref dr_type="crowley">118</dic_ref>
+<dic_ref dr_type="kanji_in_context">420</dic_ref>
+<dic_ref dr_type="busy_people">3.10</dic_ref>
+<dic_ref dr_type="kodansha_compact">43</dic_ref>
+<dic_ref dr_type="maniette">1037</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">1-2-3</q_code>
+<q_code qc_type="sh_desc">0a5.1</q_code>
+<q_code qc_type="four_corner">2810.0</q_code>
+<q_code qc_type="deroo">1262</q_code>
+<q_code qc_type="skip" skip_misclass="posn">1-3-2</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">yi3</reading>
+<reading r_type="korean_r">i</reading>
+<reading r_type="korean_h">이</reading>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_kun">もっ.て</reading>
+<meaning>by means of</meaning>
+<meaning>because</meaning>
+<meaning>in view of</meaning>
+<meaning>compared with</meaning>
+<meaning m_lang="fr">au moyen de</meaning>
+<meaning m_lang="fr">parce que</meaning>
+<meaning m_lang="fr">en vue de</meaning>
+<meaning m_lang="fr">comparé à</meaning>
+<meaning m_lang="es">además de</meaning>
+<meaning m_lang="es">más que</meaning>
+<meaning m_lang="pt">Por meios de</meaning>
+<meaning m_lang="pt">porque</meaning>
+<meaning m_lang="pt">em visão de</meaning>
+<meaning m_lang="pt">comparada com</meaning>
+</rmgroup>
+<nanori>もち</nanori>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 伊 -->
+<character>
+<literal>伊</literal>
+<codepoint>
+<cp_value cp_type="ucs">4f0a</cp_value>
+<cp_value cp_type="jis208">16-43</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">9</rad_value>
+</radical>
+<misc>
+<grade>9</grade>
+<stroke_count>6</stroke_count>
+<freq>703</freq>
+<jlpt>1</jlpt>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">372</dic_ref>
+<dic_ref dr_type="nelson_n">134</dic_ref>
+<dic_ref dr_type="halpern_njecd">49</dic_ref>
+<dic_ref dr_type="halpern_kkld">33</dic_ref>
+<dic_ref dr_type="heisig">1161</dic_ref>
+<dic_ref dr_type="gakken">603</dic_ref>
+<dic_ref dr_type="oneill_names">237</dic_ref>
+<dic_ref dr_type="oneill_kk">1909</dic_ref>
+<dic_ref dr_type="moro" m_vol="1" m_page="0645">432</dic_ref>
+<dic_ref dr_type="sh_kk">2011</dic_ref>
+<dic_ref dr_type="maniette">1169</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">1-2-4</q_code>
+<q_code qc_type="sh_desc">2a4.6</q_code>
+<q_code qc_type="four_corner">2725.7</q_code>
+<q_code qc_type="deroo">2160</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">yi1</reading>
+<reading r_type="korean_r">i</reading>
+<reading r_type="korean_h">이</reading>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_kun">かれ</reading>
+<meaning>Italy</meaning>
+<meaning>that one</meaning>
+<meaning m_lang="fr">Italie</meaning>
+<meaning m_lang="fr">celui-là</meaning>
+<meaning m_lang="es">I fonética</meaning>
+<meaning m_lang="es">Italia</meaning>
+<meaning m_lang="es">ese</meaning>
+<meaning m_lang="es">aquel</meaning>
+</rmgroup>
+<nanori>これ</nanori>
+<nanori>ただ</nanori>
+<nanori>よし</nanori>
+<nanori>いと</nanori>
+<nanori>だ</nanori>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 位 -->
+<character>
+<literal>位</literal>
+<codepoint>
+<cp_value cp_type="ucs">4f4d</cp_value>
+<cp_value cp_type="jis208">16-44</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">9</rad_value>
+</radical>
+<misc>
+<grade>4</grade>
+<stroke_count>7</stroke_count>
+<freq>276</freq>
+<jlpt>2</jlpt>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">401</dic_ref>
+<dic_ref dr_type="nelson_n">162</dic_ref>
+<dic_ref dr_type="halpern_njecd">61</dic_ref>
+<dic_ref dr_type="halpern_kkld">42</dic_ref>
+<dic_ref dr_type="heisig">955</dic_ref>
+<dic_ref dr_type="gakken">482</dic_ref>
+<dic_ref dr_type="oneill_names">354</dic_ref>
+<dic_ref dr_type="oneill_kk">122</dic_ref>
+<dic_ref dr_type="moro" m_vol="1" m_page="0687">503</dic_ref>
+<dic_ref dr_type="henshall">421</dic_ref>
+<dic_ref dr_type="sh_kk">122</dic_ref>
+<dic_ref dr_type="sakade">344</dic_ref>
+<dic_ref dr_type="jf_cards">312</dic_ref>
+<dic_ref dr_type="henshall3">445</dic_ref>
+<dic_ref dr_type="tutt_cards">473</dic_ref>
+<dic_ref dr_type="crowley">319</dic_ref>
+<dic_ref dr_type="kanji_in_context">417</dic_ref>
+<dic_ref dr_type="kodansha_compact">72</dic_ref>
+<dic_ref dr_type="maniette">964</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">1-2-5</q_code>
+<q_code qc_type="sh_desc">2a5.1</q_code>
+<q_code qc_type="four_corner">2021.8</q_code>
+<q_code qc_type="deroo">2173</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">wei4</reading>
+<reading r_type="korean_r">wi</reading>
+<reading r_type="korean_h">위</reading>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_kun">くらい</reading>
+<reading r_type="ja_kun">ぐらい</reading>
+<meaning>rank</meaning>
+<meaning>grade</meaning>
+<meaning>throne</meaning>
+<meaning>crown</meaning>
+<meaning>about</meaning>
+<meaning>some</meaning>
+<meaning m_lang="fr">rang</meaning>
+<meaning m_lang="fr">position</meaning>
+<meaning m_lang="fr">grade</meaning>
+<meaning m_lang="fr">trône</meaning>
+<meaning m_lang="fr">couronne</meaning>
+<meaning m_lang="fr">à peu près</meaning>
+<meaning m_lang="es">grado</meaning>
+<meaning m_lang="es">posición</meaning>
+<meaning m_lang="es">aproximadamente</meaning>
+<meaning m_lang="es">trono</meaning>
+<meaning m_lang="pt">posição</meaning>
+<meaning m_lang="pt">grau</meaning>
+<meaning m_lang="pt">trono</meaning>
+<meaning m_lang="pt">coroa</meaning>
+<meaning m_lang="pt">sobre</meaning>
+<meaning m_lang="pt">alguma</meaning>
+</rmgroup>
+<nanori>ぞき</nanori>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 依 -->
+<character>
+<literal>依</literal>
+<codepoint>
+<cp_value cp_type="ucs">4f9d</cp_value>
+<cp_value cp_type="jis208">16-45</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">9</rad_value>
+</radical>
+<misc>
+<grade>8</grade>
+<stroke_count>8</stroke_count>
+<freq>906</freq>
+<jlpt>2</jlpt>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">426</dic_ref>
+<dic_ref dr_type="nelson_n">191</dic_ref>
+<dic_ref dr_type="halpern_njecd">84</dic_ref>
+<dic_ref dr_type="halpern_kkld">61</dic_ref>
+<dic_ref dr_type="heisig">971</dic_ref>
+<dic_ref dr_type="gakken">1177</dic_ref>
+<dic_ref dr_type="oneill_names">780</dic_ref>
+<dic_ref dr_type="oneill_kk">1135</dic_ref>
+<dic_ref dr_type="moro" m_vol="1" m_page="0758">607</dic_ref>
+<dic_ref dr_type="henshall">1001</dic_ref>
+<dic_ref dr_type="sh_kk">678</dic_ref>
+<dic_ref dr_type="jf_cards">316</dic_ref>
+<dic_ref dr_type="tutt_cards">1148</dic_ref>
+<dic_ref dr_type="kanji_in_context">890</dic_ref>
+<dic_ref dr_type="kodansha_compact">85</dic_ref>
+<dic_ref dr_type="maniette">980</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">1-2-6</q_code>
+<q_code qc_type="sh_desc">2a6.1</q_code>
+<q_code qc_type="four_corner">2023.2</q_code>
+<q_code qc_type="deroo">2165</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">yi1</reading>
+<reading r_type="korean_r">eui</reading>
+<reading r_type="korean_h">의</reading>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_on">エ</reading>
+<reading r_type="ja_kun">よ.る</reading>
+<meaning>reliant</meaning>
+<meaning>depend on</meaning>
+<meaning>consequently</meaning>
+<meaning>therefore</meaning>
+<meaning>due to</meaning>
+<meaning m_lang="fr">dépendant</meaning>
+<meaning m_lang="fr">par conséquent</meaning>
+<meaning m_lang="fr">donc</meaning>
+<meaning m_lang="fr">dû à</meaning>
+<meaning m_lang="es">confiar en</meaning>
+<meaning m_lang="es">depender de</meaning>
+<meaning m_lang="es">estar basado en</meaning>
+<meaning m_lang="pt">confiante</meaning>
+<meaning m_lang="pt">contar com</meaning>
+<meaning m_lang="pt">consequentemente</meaning>
+<meaning m_lang="pt">portanto</meaning>
+<meaning m_lang="pt">devido para</meaning>
+</rmgroup>
+<nanori>よ</nanori>
+<nanori>より</nanori>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 偉 -->
+<character>
+<literal>偉</literal>
+<codepoint>
+<cp_value cp_type="ucs">5049</cp_value>
+<cp_value cp_type="jis208">16-46</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">9</rad_value>
+</radical>
+<misc>
+<grade>8</grade>
+<stroke_count>12</stroke_count>
+<freq>1639</freq>
+<jlpt>2</jlpt>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">506</dic_ref>
+<dic_ref dr_type="nelson_n">285</dic_ref>
+<dic_ref dr_type="halpern_njecd">148</dic_ref>
+<dic_ref dr_type="halpern_kkld">111</dic_ref>
+<dic_ref dr_type="heisig">1643</dic_ref>
+<dic_ref dr_type="gakken">1532</dic_ref>
+<dic_ref dr_type="oneill_names">1535</dic_ref>
+<dic_ref dr_type="oneill_kk">1098</dic_ref>
+<dic_ref dr_type="moro" m_vol="1" m_page="0858">837</dic_ref>
+<dic_ref dr_type="henshall">1005</dic_ref>
+<dic_ref dr_type="sh_kk">1053</dic_ref>
+<dic_ref dr_type="jf_cards">327</dic_ref>
+<dic_ref dr_type="tutt_cards">1504</dic_ref>
+<dic_ref dr_type="kanji_in_context">1242</dic_ref>
+<dic_ref dr_type="kodansha_compact">123</dic_ref>
+<dic_ref dr_type="maniette">1658</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">1-2-10</q_code>
+<q_code qc_type="sh_desc">2a10.5</q_code>
+<q_code qc_type="four_corner">2425.6</q_code>
+<q_code qc_type="deroo">2155</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">wei3</reading>
+<reading r_type="korean_r">wi</reading>
+<reading r_type="korean_h">위</reading>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_kun">えら.い</reading>
+<meaning>admirable</meaning>
+<meaning>greatness</meaning>
+<meaning>remarkable</meaning>
+<meaning>conceited</meaning>
+<meaning>famous</meaning>
+<meaning>excellent</meaning>
+<meaning m_lang="fr">admirable</meaning>
+<meaning m_lang="fr">grandeur</meaning>
+<meaning m_lang="fr">remarquable</meaning>
+<meaning m_lang="fr">vaniteux</meaning>
+<meaning m_lang="fr">célèbre</meaning>
+<meaning m_lang="fr">excellent</meaning>
+<meaning m_lang="es">admirable</meaning>
+<meaning m_lang="es">notable</meaning>
+<meaning m_lang="es">excelente</meaning>
+<meaning m_lang="pt">admirável</meaning>
+<meaning m_lang="pt">grandeza</meaning>
+<meaning m_lang="pt">notável</meaning>
+<meaning m_lang="pt">conceituado</meaning>
+<meaning m_lang="pt">excelente</meaning>
+<meaning m_lang="pt">famoso</meaning>
+</rmgroup>
+<nanori>ひで</nanori>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 囲 -->
+<character>
+<literal>囲</literal>
+<codepoint>
+<cp_value cp_type="ucs">56f2</cp_value>
+<cp_value cp_type="jis208">16-47</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">31</rad_value>
+</radical>
+<misc>
+<grade>4</grade>
+<stroke_count>7</stroke_count>
+<variant var_type="jis208">52-03</variant>
+<variant var_type="deroo">3675</variant>
+<freq>771</freq>
+<jlpt>2</jlpt>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">1032</dic_ref>
+<dic_ref dr_type="nelson_n">945</dic_ref>
+<dic_ref dr_type="halpern_njecd">3069</dic_ref>
+<dic_ref dr_type="halpern_kkld">1949</dic_ref>
+<dic_ref dr_type="heisig">1807</dic_ref>
+<dic_ref dr_type="gakken">945</dic_ref>
+<dic_ref dr_type="oneill_names">501A</dic_ref>
+<dic_ref dr_type="oneill_kk">803</dic_ref>
+<dic_ref dr_type="moro" m_vol="3" m_page="0064">4722</dic_ref>
+<dic_ref dr_type="henshall">422</dic_ref>
+<dic_ref dr_type="sh_kk">1194</dic_ref>
+<dic_ref dr_type="sakade">343</dic_ref>
+<dic_ref dr_type="jf_cards">423</dic_ref>
+<dic_ref dr_type="henshall3">446</dic_ref>
+<dic_ref dr_type="tutt_cards">474</dic_ref>
+<dic_ref dr_type="kanji_in_context">1062</dic_ref>
+<dic_ref dr_type="kodansha_compact">340</dic_ref>
+<dic_ref dr_type="maniette">1825</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">3-3-4</q_code>
+<q_code qc_type="sh_desc">3s4.2</q_code>
+<q_code qc_type="four_corner">6055.0</q_code>
+<q_code qc_type="deroo">1955</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">wei2</reading>
+<reading r_type="korean_r">wi</reading>
+<reading r_type="korean_h">위</reading>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_kun">かこ.む</reading>
+<reading r_type="ja_kun">かこ.う</reading>
+<reading r_type="ja_kun">かこ.い</reading>
+<meaning>surround</meaning>
+<meaning>besiege</meaning>
+<meaning>store</meaning>
+<meaning>paling</meaning>
+<meaning>enclosure</meaning>
+<meaning>encircle</meaning>
+<meaning>preserve</meaning>
+<meaning>keep</meaning>
+<meaning m_lang="fr">entourer</meaning>
+<meaning m_lang="fr">assiéger</meaning>
+<meaning m_lang="fr">enceinte</meaning>
+<meaning m_lang="fr">palissade</meaning>
+<meaning m_lang="fr">encercler</meaning>
+<meaning m_lang="fr">réserve</meaning>
+<meaning m_lang="fr">garder</meaning>
+<meaning m_lang="es">circunferencia</meaning>
+<meaning m_lang="es">rodear</meaning>
+<meaning m_lang="es">cercar</meaning>
+<meaning m_lang="pt">circundar</meaning>
+<meaning m_lang="pt">sitiar</meaning>
+<meaning m_lang="pt">loja</meaning>
+<meaning m_lang="pt">paliçada</meaning>
+<meaning m_lang="pt">cerca</meaning>
+<meaning m_lang="pt">preservar</meaning>
+<meaning m_lang="pt">guardar</meaning>
+</rmgroup>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 夷 -->
+<character>
+<literal>夷</literal>
+<codepoint>
+<cp_value cp_type="ucs">5937</cp_value>
+<cp_value cp_type="jis208">16-48</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">4</rad_value>
+</radical>
+<misc>
+<grade>9</grade>
+<stroke_count>6</stroke_count>
+<freq>2324</freq>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">182</dic_ref>
+<dic_ref dr_type="nelson_n">1143</dic_ref>
+<dic_ref dr_type="heisig">2881</dic_ref>
+<dic_ref dr_type="oneill_names">535</dic_ref>
+<dic_ref dr_type="moro" m_vol="3" m_page="0559">5852</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">4-6-4</q_code>
+<q_code qc_type="sh_desc">0a6.24</q_code>
+<q_code qc_type="four_corner">5003.2</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">yi2</reading>
+<reading r_type="korean_r">i</reading>
+<reading r_type="korean_h">이</reading>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_kun">えびす</reading>
+<reading r_type="ja_kun">えみし</reading>
+<reading r_type="ja_kun">ころ.す</reading>
+<reading r_type="ja_kun">たい.らげる</reading>
+<meaning>barbarian</meaning>
+<meaning>savage</meaning>
+<meaning>Ainu</meaning>
+<meaning m_lang="es">bárbaro</meaning>
+<meaning m_lang="es">salvaje</meaning>
+</rmgroup>
+<nanori>し</nanori>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 委 -->
+<character>
+<literal>委</literal>
+<codepoint>
+<cp_value cp_type="ucs">59d4</cp_value>
+<cp_value cp_type="jis208">16-49</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">38</rad_value>
+<rad_value rad_type="nelson_c">115</rad_value>
+</radical>
+<misc>
+<grade>3</grade>
+<stroke_count>8</stroke_count>
+<freq>187</freq>
+<jlpt>2</jlpt>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">3267</dic_ref>
+<dic_ref dr_type="nelson_n">1204</dic_ref>
+<dic_ref dr_type="halpern_njecd">2553</dic_ref>
+<dic_ref dr_type="halpern_kkld">1623</dic_ref>
+<dic_ref dr_type="heisig">913</dic_ref>
+<dic_ref dr_type="gakken">171</dic_ref>
+<dic_ref dr_type="oneill_names">960</dic_ref>
+<dic_ref dr_type="oneill_kk">837</dic_ref>
+<dic_ref dr_type="moro" m_vol="3" m_page="0669">6181</dic_ref>
+<dic_ref dr_type="henshall">423</dic_ref>
+<dic_ref dr_type="sh_kk">466</dic_ref>
+<dic_ref dr_type="sakade">346</dic_ref>
+<dic_ref dr_type="jf_cards">451</dic_ref>
+<dic_ref dr_type="henshall3">245</dic_ref>
+<dic_ref dr_type="tutt_cards">291</dic_ref>
+<dic_ref dr_type="kanji_in_context">697</dic_ref>
+<dic_ref dr_type="kodansha_compact">426</dic_ref>
+<dic_ref dr_type="maniette">922</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">2-5-3</q_code>
+<q_code qc_type="sh_desc">5d3.2</q_code>
+<q_code qc_type="four_corner">2040.4</q_code>
+<q_code qc_type="deroo">2269</q_code>
+<q_code qc_type="skip" skip_misclass="posn">2-1-7</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">wei3</reading>
+<reading r_type="pinyin">wei1</reading>
+<reading r_type="korean_r">wi</reading>
+<reading r_type="korean_h">위</reading>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_kun">ゆだ.ねる</reading>
+<meaning>committee</meaning>
+<meaning>entrust to</meaning>
+<meaning>leave to</meaning>
+<meaning>devote</meaning>
+<meaning>discard</meaning>
+<meaning m_lang="fr">comité</meaning>
+<meaning m_lang="fr">confier à</meaning>
+<meaning m_lang="fr">laisser à</meaning>
+<meaning m_lang="fr">se consacrer</meaning>
+<meaning m_lang="fr">abandonner</meaning>
+<meaning m_lang="es">confiar</meaning>
+<meaning m_lang="es">confianza</meaning>
+<meaning m_lang="es">detallado</meaning>
+<meaning m_lang="pt">comitê</meaning>
+<meaning m_lang="pt">confiar a</meaning>
+<meaning m_lang="pt">deixar para</meaning>
+<meaning m_lang="pt">dedicar</meaning>
+<meaning m_lang="pt">descartar</meaning>
+</rmgroup>
+<nanori>まかせ</nanori>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 威 -->
+<character>
+<literal>威</literal>
+<codepoint>
+<cp_value cp_type="ucs">5a01</cp_value>
+<cp_value cp_type="jis208">16-50</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">38</rad_value>
+<rad_value rad_type="nelson_c">62</rad_value>
+</radical>
+<misc>
+<grade>8</grade>
+<stroke_count>9</stroke_count>
+<freq>1103</freq>
+<jlpt>1</jlpt>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">1803</dic_ref>
+<dic_ref dr_type="nelson_n">1219</dic_ref>
+<dic_ref dr_type="halpern_njecd">3578</dic_ref>
+<dic_ref dr_type="halpern_kkld">2226</dic_ref>
+<dic_ref dr_type="heisig">364</dic_ref>
+<dic_ref dr_type="gakken">982</dic_ref>
+<dic_ref dr_type="oneill_names">1251</dic_ref>
+<dic_ref dr_type="oneill_kk">1011</dic_ref>
+<dic_ref dr_type="moro" m_vol="3" m_page="0700">6259</dic_ref>
+<dic_ref dr_type="henshall">1002</dic_ref>
+<dic_ref dr_type="sh_kk">1339</dic_ref>
+<dic_ref dr_type="jf_cards">1194</dic_ref>
+<dic_ref dr_type="tutt_cards">1243</dic_ref>
+<dic_ref dr_type="kanji_in_context">1333</dic_ref>
+<dic_ref dr_type="kodansha_compact">428</dic_ref>
+<dic_ref dr_type="maniette">370</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">4-9-4</q_code>
+<q_code qc_type="sh_desc">4n5.2</q_code>
+<q_code qc_type="four_corner">5320.0</q_code>
+<q_code qc_type="deroo">1459</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">wei1</reading>
+<reading r_type="korean_r">wi</reading>
+<reading r_type="korean_h">위</reading>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_kun">おど.す</reading>
+<reading r_type="ja_kun">おど.し</reading>
+<reading r_type="ja_kun">おど.かす</reading>
+<meaning>intimidate</meaning>
+<meaning>dignity</meaning>
+<meaning>majesty</meaning>
+<meaning>menace</meaning>
+<meaning>threaten</meaning>
+<meaning m_lang="fr">intimidant</meaning>
+<meaning m_lang="fr">dignité</meaning>
+<meaning m_lang="fr">majesté</meaning>
+<meaning m_lang="fr">menacer</meaning>
+<meaning m_lang="es">dignidad</meaning>
+<meaning m_lang="es">majestad</meaning>
+<meaning m_lang="es">amenazar</meaning>
+<meaning m_lang="es">intimidar</meaning>
+<meaning m_lang="es">fuerza</meaning>
+<meaning m_lang="pt">intimidar</meaning>
+<meaning m_lang="pt">dignidade</meaning>
+<meaning m_lang="pt">majestade</meaning>
+<meaning m_lang="pt">ameaça</meaning>
+<meaning m_lang="pt">ameaçar</meaning>
+</rmgroup>
+<nanori>いさ</nanori>
+<nanori>たけ</nanori>
+<nanori>たけし</nanori>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 尉 -->
+<character>
+<literal>尉</literal>
+<codepoint>
+<cp_value cp_type="ucs">5c09</cp_value>
+<cp_value cp_type="jis208">16-51</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">41</rad_value>
+<rad_value rad_type="nelson_c">4</rad_value>
+</radical>
+<misc>
+<grade>8</grade>
+<stroke_count>11</stroke_count>
+<variant var_type="jis212">20-63</variant>
+<freq>2007</freq>
+<jlpt>1</jlpt>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">231</dic_ref>
+<dic_ref dr_type="nelson_n">1383</dic_ref>
+<dic_ref dr_type="halpern_njecd">1685</dic_ref>
+<dic_ref dr_type="halpern_kkld">1105</dic_ref>
+<dic_ref dr_type="heisig">1095</dic_ref>
+<dic_ref dr_type="gakken">1765</dic_ref>
+<dic_ref dr_type="oneill_names">1410</dic_ref>
+<dic_ref dr_type="oneill_kk">1232</dic_ref>
+<dic_ref dr_type="moro" m_vol="4" m_page="0028">7440</dic_ref>
+<dic_ref dr_type="henshall">1004</dic_ref>
+<dic_ref dr_type="sh_kk">1617</dic_ref>
+<dic_ref dr_type="jf_cards">1223</dic_ref>
+<dic_ref dr_type="tutt_cards">1423</dic_ref>
+<dic_ref dr_type="kanji_in_context">1882</dic_ref>
+<dic_ref dr_type="kodansha_compact">507</dic_ref>
+<dic_ref dr_type="maniette">1104</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">1-8-3</q_code>
+<q_code qc_type="sh_desc">4e6.4</q_code>
+<q_code qc_type="four_corner">7420.0</q_code>
+<q_code qc_type="deroo">3748</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">wei4</reading>
+<reading r_type="pinyin">yu4</reading>
+<reading r_type="korean_r">wi</reading>
+<reading r_type="korean_r">ul</reading>
+<reading r_type="korean_h">위</reading>
+<reading r_type="korean_h">울</reading>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_on">ジョウ</reading>
+<meaning>military officer</meaning>
+<meaning>jailer</meaning>
+<meaning>old man</meaning>
+<meaning>rank</meaning>
+<meaning m_lang="fr">officier</meaning>
+<meaning m_lang="fr">geôlier</meaning>
+<meaning m_lang="fr">vieil homme</meaning>
+<meaning m_lang="fr">rang</meaning>
+<meaning m_lang="es">oficial militar</meaning>
+<meaning m_lang="es">carcelero</meaning>
+<meaning m_lang="es">rango</meaning>
+<meaning m_lang="es">viejo</meaning>
+<meaning m_lang="pt">oficial militar</meaning>
+<meaning m_lang="pt">carcereiro</meaning>
+<meaning m_lang="pt">velho</meaning>
+<meaning m_lang="pt">posição</meaning>
+</rmgroup>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 惟 -->
+<character>
+<literal>惟</literal>
+<codepoint>
+<cp_value cp_type="ucs">60df</cp_value>
+<cp_value cp_type="jis208">16-52</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">61</rad_value>
+</radical>
+<misc>
+<grade>9</grade>
+<stroke_count>11</stroke_count>
+<freq>2246</freq>
+<jlpt>1</jlpt>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">1709</dic_ref>
+<dic_ref dr_type="nelson_n">1890</dic_ref>
+<dic_ref dr_type="halpern_njecd">481</dic_ref>
+<dic_ref dr_type="halpern_kkld">352</dic_ref>
+<dic_ref dr_type="heisig">2276</dic_ref>
+<dic_ref dr_type="oneill_names">1290</dic_ref>
+<dic_ref dr_type="moro" m_vol="4" m_page="1086">10820</dic_ref>
+<dic_ref dr_type="sh_kk">2073</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">1-3-8</q_code>
+<q_code qc_type="sh_desc">4k8.1</q_code>
+<q_code qc_type="four_corner">9001.4</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">wei2</reading>
+<reading r_type="korean_r">yu</reading>
+<reading r_type="korean_h">유</reading>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_on">ユイ</reading>
+<reading r_type="ja_kun">おも.んみる</reading>
+<reading r_type="ja_kun">これ</reading>
+<reading r_type="ja_kun">おも.うに</reading>
+<meaning>consider</meaning>
+<meaning>reflect</meaning>
+<meaning>think</meaning>
+<meaning m_lang="es">este</meaning>
+<meaning m_lang="es">simplemente</meaning>
+<meaning m_lang="es">solamente</meaning>
+<meaning m_lang="es">considerar</meaning>
+<meaning m_lang="es">meditar</meaning>
+<meaning m_lang="es">pensar</meaning>
+<meaning m_lang="es">reflexionar</meaning>
+</rmgroup>
+<nanori>ただ</nanori>
+<nanori>よし</nanori>
+<nanori>のぶ</nanori>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 意 -->
+<character>
+<literal>意</literal>
+<codepoint>
+<cp_value cp_type="ucs">610f</cp_value>
+<cp_value cp_type="jis208">16-53</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">61</rad_value>
+<rad_value rad_type="nelson_c">180</rad_value>
+</radical>
+<misc>
+<grade>3</grade>
+<stroke_count>13</stroke_count>
+<freq>99</freq>
+<jlpt>3</jlpt>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">5113</dic_ref>
+<dic_ref dr_type="nelson_n">1926</dic_ref>
+<dic_ref dr_type="halpern_njecd">2136</dic_ref>
+<dic_ref dr_type="halpern_kkld">1352</dic_ref>
+<dic_ref dr_type="heisig">608</dic_ref>
+<dic_ref dr_type="gakken">118</dic_ref>
+<dic_ref dr_type="oneill_names">2007</dic_ref>
+<dic_ref dr_type="oneill_kk">225</dic_ref>
+<dic_ref dr_type="moro" m_vol="4" m_page="1113">10921</dic_ref>
+<dic_ref dr_type="henshall">226</dic_ref>
+<dic_ref dr_type="sh_kk">132</dic_ref>
+<dic_ref dr_type="sakade">155</dic_ref>
+<dic_ref dr_type="jf_cards">176</dic_ref>
+<dic_ref dr_type="henshall3">246</dic_ref>
+<dic_ref dr_type="tutt_cards">416</dic_ref>
+<dic_ref dr_type="crowley">86</dic_ref>
+<dic_ref dr_type="kanji_in_context">291</dic_ref>
+<dic_ref dr_type="busy_people">2.19</dic_ref>
+<dic_ref dr_type="kodansha_compact">791</dic_ref>
+<dic_ref dr_type="maniette">615</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">2-2-11</q_code>
+<q_code qc_type="sh_desc">5b8.2</q_code>
+<q_code qc_type="four_corner">0033.6</q_code>
+<q_code qc_type="deroo">458</q_code>
+<q_code qc_type="skip" skip_misclass="posn">2-5-8</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">yi4</reading>
+<reading r_type="korean_r">eui</reading>
+<reading r_type="korean_h">의</reading>
+<reading r_type="ja_on">イ</reading>
+<meaning>idea</meaning>
+<meaning>mind</meaning>
+<meaning>heart</meaning>
+<meaning>taste</meaning>
+<meaning>thought</meaning>
+<meaning>desire</meaning>
+<meaning>care</meaning>
+<meaning>liking</meaning>
+<meaning m_lang="fr">idée</meaning>
+<meaning m_lang="fr">esprit</meaning>
+<meaning m_lang="fr">coeur</meaning>
+<meaning m_lang="fr">pensée</meaning>
+<meaning m_lang="fr">attention</meaning>
+<meaning m_lang="fr">goût</meaning>
+<meaning m_lang="fr">désir</meaning>
+<meaning m_lang="es">idea</meaning>
+<meaning m_lang="es">sentimiento</meaning>
+<meaning m_lang="es">razón</meaning>
+<meaning m_lang="es">intención</meaning>
+<meaning m_lang="pt">idéia</meaning>
+<meaning m_lang="pt">mente</meaning>
+<meaning m_lang="pt">coração</meaning>
+<meaning m_lang="pt">gosto</meaning>
+<meaning m_lang="pt">pensamento</meaning>
+<meaning m_lang="pt">desejo</meaning>
+<meaning m_lang="pt">atenção</meaning>
+</rmgroup>
+<nanori>もと</nanori>
+<nanori>よし</nanori>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 慰 -->
+<character>
+<literal>慰</literal>
+<codepoint>
+<cp_value cp_type="ucs">6170</cp_value>
+<cp_value cp_type="jis208">16-54</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">61</rad_value>
+</radical>
+<misc>
+<grade>8</grade>
+<stroke_count>15</stroke_count>
+<freq>1158</freq>
+<jlpt>1</jlpt>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">1758</dic_ref>
+<dic_ref dr_type="nelson_n">1972</dic_ref>
+<dic_ref dr_type="halpern_njecd">2867</dic_ref>
+<dic_ref dr_type="halpern_kkld">1835</dic_ref>
+<dic_ref dr_type="heisig">1096</dic_ref>
+<dic_ref dr_type="gakken">1466</dic_ref>
+<dic_ref dr_type="oneill_names">2404</dic_ref>
+<dic_ref dr_type="oneill_kk">1066</dic_ref>
+<dic_ref dr_type="moro" m_vol="4" m_page="1166">11135</dic_ref>
+<dic_ref dr_type="henshall">1008</dic_ref>
+<dic_ref dr_type="sh_kk">1618</dic_ref>
+<dic_ref dr_type="jf_cards">1317</dic_ref>
+<dic_ref dr_type="tutt_cards">1761</dic_ref>
+<dic_ref dr_type="kanji_in_context">1702</dic_ref>
+<dic_ref dr_type="kodansha_compact">798</dic_ref>
+<dic_ref dr_type="maniette">1105</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">2-11-4</q_code>
+<q_code qc_type="sh_desc">4k11.13</q_code>
+<q_code qc_type="four_corner">7433.0</q_code>
+<q_code qc_type="deroo">3758</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">wei4</reading>
+<reading r_type="korean_r">wi</reading>
+<reading r_type="korean_h">위</reading>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_kun">なぐさ.める</reading>
+<reading r_type="ja_kun">なぐさ.む</reading>
+<meaning>consolation</meaning>
+<meaning>amusement</meaning>
+<meaning>seduce</meaning>
+<meaning>cheer</meaning>
+<meaning>make sport of</meaning>
+<meaning>comfort</meaning>
+<meaning>console</meaning>
+<meaning m_lang="fr">réconforter</meaning>
+<meaning m_lang="fr">divertissement</meaning>
+<meaning m_lang="fr">séduire</meaning>
+<meaning m_lang="fr">consoler</meaning>
+<meaning m_lang="fr">remonter</meaning>
+<meaning m_lang="fr">s'amuser de</meaning>
+<meaning m_lang="es">consolar</meaning>
+<meaning m_lang="es">confortar</meaning>
+<meaning m_lang="es">aliviar</meaning>
+<meaning m_lang="es">alegrar</meaning>
+<meaning m_lang="pt">consolo</meaning>
+<meaning m_lang="pt">divertimento</meaning>
+<meaning m_lang="pt">sedução</meaning>
+<meaning m_lang="pt">torce</meaning>
+<meaning m_lang="pt">levar na esportiva</meaning>
+<meaning m_lang="pt">conforto</meaning>
+<meaning m_lang="pt">consolar</meaning>
+</rmgroup>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 易 -->
+<character>
+<literal>易</literal>
+<codepoint>
+<cp_value cp_type="ucs">6613</cp_value>
+<cp_value cp_type="jis208">16-55</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">72</rad_value>
+</radical>
+<misc>
+<grade>5</grade>
+<stroke_count>8</stroke_count>
+<freq>571</freq>
+<jlpt>2</jlpt>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">2107</dic_ref>
+<dic_ref dr_type="nelson_n">2432</dic_ref>
+<dic_ref dr_type="halpern_njecd">2411</dic_ref>
+<dic_ref dr_type="halpern_kkld">1561</dic_ref>
+<dic_ref dr_type="heisig">1051</dic_ref>
+<dic_ref dr_type="gakken">810</dic_ref>
+<dic_ref dr_type="oneill_names">714</dic_ref>
+<dic_ref dr_type="oneill_kk">824</dic_ref>
+<dic_ref dr_type="moro" m_vol="5" m_page="0787">13814</dic_ref>
+<dic_ref dr_type="henshall">618</dic_ref>
+<dic_ref dr_type="sh_kk">759</dic_ref>
+<dic_ref dr_type="sakade">545</dic_ref>
+<dic_ref dr_type="jf_cards">597</dic_ref>
+<dic_ref dr_type="henshall3">647</dic_ref>
+<dic_ref dr_type="tutt_cards">676</dic_ref>
+<dic_ref dr_type="crowley">383</dic_ref>
+<dic_ref dr_type="kanji_in_context">434</dic_ref>
+<dic_ref dr_type="kodansha_compact">967</dic_ref>
+<dic_ref dr_type="maniette">1060</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">2-4-4</q_code>
+<q_code qc_type="sh_desc">4c4.9</q_code>
+<q_code qc_type="four_corner">6022.7</q_code>
+<q_code qc_type="deroo">3851</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">yi4</reading>
+<reading r_type="korean_r">yeog</reading>
+<reading r_type="korean_r">i</reading>
+<reading r_type="korean_h">역</reading>
+<reading r_type="korean_h">이</reading>
+<reading r_type="ja_on">エキ</reading>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_kun">やさ.しい</reading>
+<reading r_type="ja_kun">やす.い</reading>
+<meaning>easy</meaning>
+<meaning>ready to</meaning>
+<meaning>simple</meaning>
+<meaning>fortune-telling</meaning>
+<meaning>divination</meaning>
+<meaning m_lang="fr">facile</meaning>
+<meaning m_lang="fr">prêt-à-...</meaning>
+<meaning m_lang="fr">simple</meaning>
+<meaning m_lang="fr">voyance</meaning>
+<meaning m_lang="fr">divination</meaning>
+<meaning m_lang="fr">commerce</meaning>
+<meaning m_lang="es">fácil</meaning>
+<meaning m_lang="es">simple</meaning>
+<meaning m_lang="es">cambio</meaning>
+<meaning m_lang="es">intercambio</meaning>
+<meaning m_lang="es">adivinación</meaning>
+<meaning m_lang="es">sencillo</meaning>
+<meaning m_lang="pt">Fácil</meaning>
+<meaning m_lang="pt">ler a sorte</meaning>
+<meaning m_lang="pt">pronto para</meaning>
+<meaning m_lang="pt">simples</meaning>
+<meaning m_lang="pt">advinhação</meaning>
+</rmgroup>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 椅 -->
+<character>
+<literal>椅</literal>
+<codepoint>
+<cp_value cp_type="ucs">6905</cp_value>
+<cp_value cp_type="jis208">16-56</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">75</rad_value>
+</radical>
+<misc>
+<grade>8</grade>
+<stroke_count>12</stroke_count>
+<freq>2245</freq>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">2290</dic_ref>
+<dic_ref dr_type="nelson_n">2737</dic_ref>
+<dic_ref dr_type="heisig">2480</dic_ref>
+<dic_ref dr_type="moro" m_vol="6" m_page="0412">15009</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">1-4-8</q_code>
+<q_code qc_type="sh_desc">4a8.27</q_code>
+<q_code qc_type="four_corner">4492.1</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">yi3</reading>
+<reading r_type="pinyin">yi1</reading>
+<reading r_type="korean_r">eui</reading>
+<reading r_type="korean_h">의</reading>
+<reading r_type="ja_on">イ</reading>
+<meaning>chair</meaning>
+<meaning m_lang="es">silla</meaning>
+<meaning m_lang="es">asiento</meaning>
+</rmgroup>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 為 -->
+<character>
+<literal>為</literal>
+<codepoint>
+<cp_value cp_type="ucs">70ba</cp_value>
+<cp_value cp_type="jis208">16-57</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">87</rad_value>
+<rad_value rad_type="nelson_c">3</rad_value>
+</radical>
+<misc>
+<grade>8</grade>
+<stroke_count>9</stroke_count>
+<variant var_type="jis208">64-10</variant>
+<freq>831</freq>
+<jlpt>1</jlpt>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">138</dic_ref>
+<dic_ref dr_type="nelson_n">3411</dic_ref>
+<dic_ref dr_type="halpern_njecd">3577</dic_ref>
+<dic_ref dr_type="halpern_kkld">2225</dic_ref>
+<dic_ref dr_type="heisig">1918</dic_ref>
+<dic_ref dr_type="gakken">1137</dic_ref>
+<dic_ref dr_type="oneill_names">1005</dic_ref>
+<dic_ref dr_type="oneill_kk">977</dic_ref>
+<dic_ref dr_type="moro" m_vol="7" m_page="0393">18981P</dic_ref>
+<dic_ref dr_type="henshall">1003</dic_ref>
+<dic_ref dr_type="sh_kk">1484</dic_ref>
+<dic_ref dr_type="jf_cards">1514</dic_ref>
+<dic_ref dr_type="tutt_cards">1277</dic_ref>
+<dic_ref dr_type="crowley">446</dic_ref>
+<dic_ref dr_type="kanji_in_context">736</dic_ref>
+<dic_ref dr_type="kodansha_compact">1274</dic_ref>
+<dic_ref dr_type="maniette">1937</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">4-9-4</q_code>
+<q_code qc_type="sh_desc">4d5.8</q_code>
+<q_code qc_type="four_corner">3402.7</q_code>
+<q_code qc_type="deroo">950</q_code>
+<q_code qc_type="skip" skip_misclass="posn">3-5-4</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">wei4</reading>
+<reading r_type="pinyin">wei2</reading>
+<reading r_type="korean_r">wi</reading>
+<reading r_type="korean_h">위</reading>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_kun">ため</reading>
+<reading r_type="ja_kun">な.る</reading>
+<reading r_type="ja_kun">な.す</reading>
+<reading r_type="ja_kun">す.る</reading>
+<reading r_type="ja_kun">たり</reading>
+<reading r_type="ja_kun">つく.る</reading>
+<reading r_type="ja_kun">なり</reading>
+<meaning>do</meaning>
+<meaning>change</meaning>
+<meaning>make</meaning>
+<meaning>benefit</meaning>
+<meaning>welfare</meaning>
+<meaning>be of use</meaning>
+<meaning>reach to</meaning>
+<meaning>try</meaning>
+<meaning>practice</meaning>
+<meaning>cost</meaning>
+<meaning>serve as</meaning>
+<meaning>good</meaning>
+<meaning>advantage</meaning>
+<meaning>as a result of</meaning>
+<meaning m_lang="fr">faire</meaning>
+<meaning m_lang="fr">changer</meaning>
+<meaning m_lang="fr">bénéfice</meaning>
+<meaning m_lang="fr">bien-être</meaning>
+<meaning m_lang="fr">être utile</meaning>
+<meaning m_lang="fr">atteindre</meaning>
+<meaning m_lang="fr">essayer</meaning>
+<meaning m_lang="fr">s'entraîner</meaning>
+<meaning m_lang="fr">coûter</meaning>
+<meaning m_lang="fr">servir pour</meaning>
+<meaning m_lang="fr">bon</meaning>
+<meaning m_lang="fr">avantage</meaning>
+<meaning m_lang="fr">par suite de</meaning>
+<meaning m_lang="es">hacer</meaning>
+<meaning m_lang="es">ocurrir</meaning>
+<meaning m_lang="es">razón</meaning>
+<meaning m_lang="es">causa</meaning>
+<meaning m_lang="pt">mudança</meaning>
+<meaning m_lang="pt">benefício</meaning>
+<meaning m_lang="pt">bem-estar</meaning>
+<meaning m_lang="pt">é de uso</meaning>
+<meaning m_lang="pt">tentativa</meaning>
+<meaning m_lang="pt">prática</meaning>
+<meaning m_lang="pt">custo</meaning>
+<meaning m_lang="pt">servir para</meaning>
+<meaning m_lang="pt">bom</meaning>
+<meaning m_lang="pt">vantagem</meaning>
+<meaning m_lang="pt">como um resultado de</meaning>
+</rmgroup>
+<nanori>びい</nanori>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 畏 -->
+<character>
+<literal>畏</literal>
+<codepoint>
+<cp_value cp_type="ucs">754f</cp_value>
+<cp_value cp_type="jis208">16-58</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">102</rad_value>
+</radical>
+<misc>
+<grade>8</grade>
+<stroke_count>9</stroke_count>
+<freq>2389</freq>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">2999</dic_ref>
+<dic_ref dr_type="nelson_n">3742</dic_ref>
+<dic_ref dr_type="halpern_njecd">2562</dic_ref>
+<dic_ref dr_type="heisig">2569</dic_ref>
+<dic_ref dr_type="moro" m_vol="7" m_page="1088">21778</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">2-5-4</q_code>
+<q_code qc_type="sh_desc">5f4.5</q_code>
+<q_code qc_type="four_corner">6073.2</q_code>
+<q_code qc_type="deroo">3665</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">wei4</reading>
+<reading r_type="korean_r">oe</reading>
+<reading r_type="korean_h">외</reading>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_kun">おそ.れる</reading>
+<reading r_type="ja_kun">かしこま.る</reading>
+<reading r_type="ja_kun">かしこ</reading>
+<reading r_type="ja_kun">かしこ.し</reading>
+<meaning>fear</meaning>
+<meaning>majestic</meaning>
+<meaning>graciously</meaning>
+<meaning>be apprehensive</meaning>
+</rmgroup>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 異 -->
+<character>
+<literal>異</literal>
+<codepoint>
+<cp_value cp_type="ucs">7570</cp_value>
+<cp_value cp_type="jis208">16-59</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">102</rad_value>
+</radical>
+<misc>
+<grade>6</grade>
+<stroke_count>11</stroke_count>
+<freq>631</freq>
+<jlpt>2</jlpt>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">3008</dic_ref>
+<dic_ref dr_type="nelson_n">3757</dic_ref>
+<dic_ref dr_type="halpern_njecd">2584</dic_ref>
+<dic_ref dr_type="halpern_kkld">1651</dic_ref>
+<dic_ref dr_type="heisig">1797</dic_ref>
+<dic_ref dr_type="gakken">707</dic_ref>
+<dic_ref dr_type="oneill_names">1497</dic_ref>
+<dic_ref dr_type="oneill_kk">581</dic_ref>
+<dic_ref dr_type="moro" m_vol="7" m_page="1118">21854</dic_ref>
+<dic_ref dr_type="henshall">807</dic_ref>
+<dic_ref dr_type="sh_kk">1061</dic_ref>
+<dic_ref dr_type="sakade">738</dic_ref>
+<dic_ref dr_type="jf_cards">746</dic_ref>
+<dic_ref dr_type="henshall3">826</dic_ref>
+<dic_ref dr_type="tutt_cards">918</dic_ref>
+<dic_ref dr_type="kanji_in_context">1196</dic_ref>
+<dic_ref dr_type="kodansha_compact">1342</dic_ref>
+<dic_ref dr_type="maniette">1814</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">2-5-6</q_code>
+<q_code qc_type="sh_desc">5f6.7</q_code>
+<q_code qc_type="four_corner">6080.1</q_code>
+<q_code qc_type="deroo">3661</q_code>
+<q_code qc_type="skip" skip_misclass="posn">2-9-2</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">yi4</reading>
+<reading r_type="korean_r">i</reading>
+<reading r_type="korean_h">이</reading>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_kun">こと</reading>
+<reading r_type="ja_kun">こと.なる</reading>
+<reading r_type="ja_kun">け</reading>
+<meaning>uncommon</meaning>
+<meaning>queerness</meaning>
+<meaning>strangeness</meaning>
+<meaning>wonderful</meaning>
+<meaning>curious</meaning>
+<meaning>unusual</meaning>
+<meaning m_lang="fr">inhabituel</meaning>
+<meaning m_lang="fr">bizarrerie</meaning>
+<meaning m_lang="fr">étrangeté</meaning>
+<meaning m_lang="fr">surprenant</meaning>
+<meaning m_lang="fr">curieux</meaning>
+<meaning m_lang="fr">extraordinaire</meaning>
+<meaning m_lang="es">raro</meaning>
+<meaning m_lang="es">extraño</meaning>
+<meaning m_lang="es">inusual</meaning>
+<meaning m_lang="es">diferente</meaning>
+<meaning m_lang="pt">incomum</meaning>
+<meaning m_lang="pt">esquisito</meaning>
+<meaning m_lang="pt">estranho</meaning>
+<meaning m_lang="pt">raro</meaning>
+<meaning m_lang="pt">curioso</meaning>
+<meaning m_lang="pt">maravilhoso</meaning>
+</rmgroup>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 移 -->
+<character>
+<literal>移</literal>
+<codepoint>
+<cp_value cp_type="ucs">79fb</cp_value>
+<cp_value cp_type="jis208">16-60</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">115</rad_value>
+</radical>
+<misc>
+<grade>5</grade>
+<stroke_count>11</stroke_count>
+<freq>448</freq>
+<jlpt>2</jlpt>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">3282</dic_ref>
+<dic_ref dr_type="nelson_n">4141</dic_ref>
+<dic_ref dr_type="halpern_njecd">1177</dic_ref>
+<dic_ref dr_type="halpern_kkld">798</dic_ref>
+<dic_ref dr_type="heisig">898</dic_ref>
+<dic_ref dr_type="gakken">715</dic_ref>
+<dic_ref dr_type="oneill_names">1378</dic_ref>
+<dic_ref dr_type="oneill_kk">607</dic_ref>
+<dic_ref dr_type="moro" m_vol="8" m_page="0573">25045</dic_ref>
+<dic_ref dr_type="henshall">613</dic_ref>
+<dic_ref dr_type="sh_kk">1121</dic_ref>
+<dic_ref dr_type="sakade">547</dic_ref>
+<dic_ref dr_type="jf_cards">780</dic_ref>
+<dic_ref dr_type="henshall3">642</dic_ref>
+<dic_ref dr_type="tutt_cards">723</dic_ref>
+<dic_ref dr_type="kanji_in_context">1101</dic_ref>
+<dic_ref dr_type="busy_people">3.5</dic_ref>
+<dic_ref dr_type="kodansha_compact">1437</dic_ref>
+<dic_ref dr_type="maniette">907</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">1-5-6</q_code>
+<q_code qc_type="sh_desc">5d6.1</q_code>
+<q_code qc_type="four_corner">2792.7</q_code>
+<q_code qc_type="deroo">2260</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">yi2</reading>
+<reading r_type="korean_r">i</reading>
+<reading r_type="korean_h">이</reading>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_kun">うつ.る</reading>
+<reading r_type="ja_kun">うつ.す</reading>
+<meaning>shift</meaning>
+<meaning>move</meaning>
+<meaning>change</meaning>
+<meaning>drift</meaning>
+<meaning>catch (cold, fire)</meaning>
+<meaning>pass into</meaning>
+<meaning m_lang="fr">déplacer</meaning>
+<meaning m_lang="fr">transporter</meaning>
+<meaning m_lang="fr">déménager</meaning>
+<meaning m_lang="fr">changer</meaning>
+<meaning m_lang="fr">inconstant</meaning>
+<meaning m_lang="fr">prendre (froid, feu)</meaning>
+<meaning m_lang="fr">transférer</meaning>
+<meaning m_lang="es">cambio de lugar</meaning>
+<meaning m_lang="es">movimiento</meaning>
+<meaning m_lang="es">traslado</meaning>
+<meaning m_lang="es">mudarse</meaning>
+<meaning m_lang="es">ser infectado</meaning>
+<meaning m_lang="es">ser contagioso</meaning>
+<meaning m_lang="es">trasladar</meaning>
+<meaning m_lang="es">infectar</meaning>
+<meaning m_lang="pt">trocar</meaning>
+<meaning m_lang="pt">mover</meaning>
+<meaning m_lang="pt">mudança</meaning>
+<meaning m_lang="pt">rumo</meaning>
+<meaning m_lang="pt">pegar (fogo)</meaning>
+<meaning m_lang="pt">passar (frio)</meaning>
+<meaning m_lang="pt">passar</meaning>
+</rmgroup>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 維 -->
+<character>
+<literal>維</literal>
+<codepoint>
+<cp_value cp_type="ucs">7dad</cp_value>
+<cp_value cp_type="jis208">16-61</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">120</rad_value>
+</radical>
+<misc>
+<grade>8</grade>
+<stroke_count>14</stroke_count>
+<freq>643</freq>
+<jlpt>1</jlpt>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">3552</dic_ref>
+<dic_ref dr_type="nelson_n">4516</dic_ref>
+<dic_ref dr_type="halpern_njecd">1370</dic_ref>
+<dic_ref dr_type="halpern_kkld">926</dic_ref>
+<dic_ref dr_type="heisig">1341</dic_ref>
+<dic_ref dr_type="gakken">926</dic_ref>
+<dic_ref dr_type="oneill_names">2540</dic_ref>
+<dic_ref dr_type="oneill_kk">1187</dic_ref>
+<dic_ref dr_type="moro" m_vol="8" m_page="1096">27568</dic_ref>
+<dic_ref dr_type="henshall">1007</dic_ref>
+<dic_ref dr_type="sh_kk">1231</dic_ref>
+<dic_ref dr_type="jf_cards">1634</dic_ref>
+<dic_ref dr_type="tutt_cards">1722</dic_ref>
+<dic_ref dr_type="kanji_in_context">1297</dic_ref>
+<dic_ref dr_type="kodansha_compact">1540</dic_ref>
+<dic_ref dr_type="maniette">1353</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">1-6-8</q_code>
+<q_code qc_type="sh_desc">6a8.1</q_code>
+<q_code qc_type="four_corner">2091.4</q_code>
+<q_code qc_type="deroo">2775</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">wei2</reading>
+<reading r_type="korean_r">yu</reading>
+<reading r_type="korean_h">유</reading>
+<reading r_type="ja_on">イ</reading>
+<meaning>fiber</meaning>
+<meaning>tie</meaning>
+<meaning>rope</meaning>
+<meaning m_lang="fr">fibre</meaning>
+<meaning m_lang="fr">cordon</meaning>
+<meaning m_lang="fr">corde</meaning>
+<meaning m_lang="fr">conservation</meaning>
+<meaning m_lang="es">soga</meaning>
+<meaning m_lang="es">cuerda</meaning>
+<meaning m_lang="es">atar</meaning>
+<meaning m_lang="es">énfasis</meaning>
+<meaning m_lang="pt">fibra</meaning>
+<meaning m_lang="pt">laço</meaning>
+<meaning m_lang="pt">corda</meaning>
+</rmgroup>
+<nanori>これ</nanori>
+<nanori>たもつ</nanori>
+<nanori>つぐ</nanori>
+<nanori>ゆい</nanori>
+<nanori>ゆき</nanori>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 緯 -->
+<character>
+<literal>緯</literal>
+<codepoint>
+<cp_value cp_type="ucs">7def</cp_value>
+<cp_value cp_type="jis208">16-62</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">120</rad_value>
+</radical>
+<misc>
+<grade>8</grade>
+<stroke_count>16</stroke_count>
+<freq>1430</freq>
+<jlpt>1</jlpt>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">3579</dic_ref>
+<dic_ref dr_type="nelson_n">4566</dic_ref>
+<dic_ref dr_type="halpern_njecd">1407</dic_ref>
+<dic_ref dr_type="halpern_kkld">951</dic_ref>
+<dic_ref dr_type="heisig">1645</dic_ref>
+<dic_ref dr_type="gakken">1680</dic_ref>
+<dic_ref dr_type="oneill_names">2744</dic_ref>
+<dic_ref dr_type="oneill_kk">1636</dic_ref>
+<dic_ref dr_type="moro" m_vol="8" m_page="1131">27682</dic_ref>
+<dic_ref dr_type="henshall">1009</dic_ref>
+<dic_ref dr_type="sh_kk">1054</dic_ref>
+<dic_ref dr_type="jf_cards">1640</dic_ref>
+<dic_ref dr_type="tutt_cards">1843</dic_ref>
+<dic_ref dr_type="kanji_in_context">1570</dic_ref>
+<dic_ref dr_type="kodansha_compact">1554</dic_ref>
+<dic_ref dr_type="maniette">1660</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">1-6-10</q_code>
+<q_code qc_type="sh_desc">6a10.7</q_code>
+<q_code qc_type="four_corner">2495.6</q_code>
+<q_code qc_type="deroo">2755</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">wei3</reading>
+<reading r_type="korean_r">wi</reading>
+<reading r_type="korean_h">위</reading>
+<reading r_type="ja_on">イ</reading>
+<reading r_type="ja_kun">よこいと</reading>
+<reading r_type="ja_kun">ぬき</reading>
+<meaning>horizontal</meaning>
+<meaning>woof</meaning>
+<meaning>left &amp; right</meaning>
+<meaning>latitude</meaning>
+<meaning m_lang="fr">horizontal</meaning>
+<meaning m_lang="fr">trame (tissage)</meaning>
+<meaning m_lang="fr">gauche et droite</meaning>
+<meaning m_lang="fr">latitude</meaning>
+<meaning m_lang="es">latitud</meaning>
+<meaning m_lang="es">paralelo de latitud</meaning>
+<meaning m_lang="pt">horizontal</meaning>
+<meaning m_lang="pt">trama</meaning>
+<meaning m_lang="pt">esquerda &amp; direita</meaning>
+<meaning m_lang="pt">latitude</meaning>
+</rmgroup>
+</reading_meaning>
+</character>
+<!-- Entry for Kanji: 胃 -->
+<character>
+<literal>胃</literal>
+<codepoint>
+<cp_value cp_type="ucs">80c3</cp_value>
+<cp_value cp_type="jis208">16-63</cp_value>
+</codepoint>
+<radical>
+<rad_value rad_type="classical">130</rad_value>
+<rad_value rad_type="nelson_c">102</rad_value>
+</radical>
+<misc>
+<grade>4</grade>
+<stroke_count>9</stroke_count>
+<freq>1647</freq>
+<jlpt>2</jlpt>
+</misc>
+<dic_number>
+<dic_ref dr_type="nelson_c">3000</dic_ref>
+<dic_ref dr_type="nelson_n">4793</dic_ref>
+<dic_ref dr_type="halpern_njecd">2561</dic_ref>
+<dic_ref dr_type="halpern_kkld">1631</dic_ref>
+<dic_ref dr_type="heisig">29</dic_ref>
+<dic_ref dr_type="gakken">885</dic_ref>
+<dic_ref dr_type="oneill_kk">853</dic_ref>
+<dic_ref dr_type="moro" m_vol="9" m_page="0268">29348</dic_ref>
+<dic_ref dr_type="henshall">424</dic_ref>
+<dic_ref dr_type="sh_kk">1268</dic_ref>
+<dic_ref dr_type="sakade">546</dic_ref>
+<dic_ref dr_type="jf_cards">844</dic_ref>
+<dic_ref dr_type="henshall3">447</dic_ref>
+<dic_ref dr_type="tutt_cards">519</dic_ref>
+<dic_ref dr_type="kanji_in_context">1105</dic_ref>
+<dic_ref dr_type="kodansha_compact">1016</dic_ref>
+<dic_ref dr_type="maniette">29</dic_ref>
+</dic_number>
+<query_code>
+<q_code qc_type="skip">2-5-4</q_code>
+<q_code qc_type="sh_desc">5f4.3</q_code>
+<q_code qc_type="four_corner">6022.7</q_code>
+<q_code qc_type="deroo">3646</q_code>
+</query_code>
+<reading_meaning>
+<rmgroup>
+<reading r_type="pinyin">wei4</reading>
+<reading r_type="korean_r">wi</reading>
+<reading r_type="korean_h">위</reading>
+<reading r_type="ja_on">イ</reading>
+<meaning>stomach</meaning>
+<meaning>paunch</meaning>
+<meaning>crop</meaning>
+<meaning>craw</meaning>
+<meaning m_lang="fr">estomac</meaning>
+<meaning m_lang="fr">ventre</meaning>
+<meaning m_lang="fr">jabot</meaning>
+<meaning m_lang="es">estómago</meaning>
+<meaning m_lang="es">barriga</meaning>
+<meaning m_lang="pt">estômago</meaning>
+<meaning m_lang="pt">barriga</meaning>
+<meaning m_lang="pt">colheita</meaning>
+<meaning m_lang="pt">papo de ave</meaning>
+</rmgroup>
+</reading_meaning>
+</character>
 </kanjidic2>
